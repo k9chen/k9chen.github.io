@@ -37,4 +37,4 @@ My recreational interests include, inter alia, drinking caffeine, watching polit
 ## Quotes
 * "The more you know, the more you owe." ― Luis Rodríguez, *Always Running*
 * "The cruelest walls are made of glass" ― Ocean Vuong, *On Earth We're Briefly Gorgeous*
-* "It's like Tolstoy said. Happiness is an allegory, unhappiness a story." ―Haruki Murakami, *Kafka on the Shore*
+* "It's like Tolstoy said. Happiness is an allegory, unhappiness a story." ― Haruki Murakami, *Kafka on the Shore*
