@@ -1,96 +1,90 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Kelvin Chen
-    - name: Contact
-      value: ddw4hp@virginia.edu
-    - name: Languages
-      value: English, Mandarin
+- #title: General Information
+  #type: map
+  #contents:
+  #  - name: Full Name
+  #    value: Kelvin Chen
+  ##    value: ddw4hp@virginia.edu
+    #- name: Languages
+    #  value: English, Mandarin
 
-- title: Education
-  type: time_table
-  contents:
-    - title: B.A., Neuroscience & Cognitive Science
-      institution: University of Virginia, Charlottesville, VA
-      year: 2022 — 2026
-
-
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Primary Interests
-      items:
-        - Translational Neuroscience
-        - Nervous System Disorders
-        - Neuroimaging
-    - title: Secondary Interests
-      items:
-        - Applied Neuroethics
-
-
-- title: Research Experience
-  type: time_table
-  contents:
-    - title: Research Intern
-      institution: Barrow Neurological Institute, Phoenix, AZ
-      year: Summer 2023
-      description:
-        - Dept. of Translational Neuroscience, <a href="">Dortch Lab</a>
-        - Advised by <a href="">Dr. Richard Dortch</a>
-
-    - title: Undergraduate Researcher
-      institution: UVA School of Medicine, Charlottesville, VA
-      year: 2022 — 2023
-      description:
-        - Dept. of Pharmacology, <a href="">Zhu Lab</a>
-        - Advised by <a href="">Dr. Julius Zhu</a>
-
-    - title: Director
-      institution: Hampton University, Hampton, VA
-      year: 2021 — 2022
-      description:
-        - Dept. of Chemistry & Biochemistry, <a href="">Njoki Lab</a>
-        - Advised by <a href="">Dr. Peter Njoki</a>
+- #title: Education
+  #type: time_table
+  #contents:
+  #  - title: B.A., Neuroscience & Cognitive Science
+  #    institution: University of Virginia, Charlottesville, VA
+  #    year: 2022 — 2026
 
 
 
-- title: Teaching Experience
-  type: time_table
-  contents:
-    - year: Fall 2023
-      items:
-        - CHEM 1811, Principles of Chemical Structure Laboratory (Accelerated)
+- #title: Academic Interests
+  #type: nested_list
+  #contents:
+  #  - title: Primary Interests
+  #    items:
+  #      - Translational Neuroscience
+  #      - Nervous System Disorders
+  ##  - title: Secondary Interests
+    ##    - Applied Neuroethics
 
-- title: Awards & Grants
-  type: time_table
-  contents:
-    - title: Teaching Assistant
-      institution: University of Virginia
-      year: 2022
-      items:
-        - University Achievement Award Scholar, UVA
 
-- title: Service & Outreach
-  type: time_table
-  contents:
-    - institution: University of Virginia
-      year: 2023
-      items:
-        - Senior Translator, <a href="">The Cavalier Daily</a>
-        - Editor, <a href="">The Virginia Journal of Bioethics (Grounds)</a>
-      year: 2022
-      items:
-        - Copy Editor, <a href="">The Virginia Journal of Undergraduate Research (The Oculus)</a>
-        - Investigator, <a href="">University Judiciary Committee</a>
-        - Senior Associate, <a href="">The Blossom Together Association</a>
-        - Medical Services Volunteer, <a href="">Madison House</a>
+- #title: Research Experience
+  #type: time_table
+  #contents:
+  #  - title: Research Intern
+  #    institution: Barrow Neurological Institute, Phoenix, AZ
+  #    year: Summer 2023
+  #    description:
+  #      - Dept. of Translational Neuroscience, <a href="">Dortch Lab</a>
+  #      - Advised by <a href="">Dr. Richard Dortch</a>
+
+  #  - title: Undergraduate Researcher
+  #    institution: UVA School of Medicine, Charlottesville, VA
+  #    year: 2022 — 2023
+  #    description:
+  #      - Dept. of Pharmacology, <a href="">Zhu Lab</a>
+  #      - Advised by <a href="">Dr. Julius Zhu</a>
+
+  #  - title: Director
+  #    institution: Hampton University, Hampton, VA
+  ##    description:
+    #    - Dept. of Chemistry & Biochemistry, <a href="">Njoki Lab</a>
+    #    - Advised by <a href="">Dr. Peter Njoki</a>
+
+
+
+- #title: Teaching Experience
+  #type: time_table
+  #contents:
+  #  - year: Fall 2023
+  ##      - CHEM 1811, Principles of Chemical Structure Laboratory (Accelerated)
+
+- #title: Awards & Grants
+  #type: time_table
+  #contents:
+  #  - title: Teaching Assistant
+  #    institution: University of Virginia
+  #    year: 2022
+  #    items:
+  #      - University Achievement Award Scholar, UVA
+
+- #title: Service & Outreach
+  #type: time_table
+  #contents:
+  #  - institution: University of Virginia
+  #    year: 2023
+  #    items:
+  #      - Senior Translator, <a href="">The Cavalier Daily</a>
+  #      - Editor, <a href="">The Virginia Journal of Bioethics (Grounds)</a>
+  ##    items:
+    #    - Copy Editor, <a href="">The Virginia Journal of Undergraduate Research (The Oculus)</a>
+    #    - Investigator, <a href="">University Judiciary Committee</a>
+    #    - Senior Associate, <a href="">The Blossom Together Association</a>
+    #    - Medical Services Volunteer, <a href="">Madison House</a>
 
 
 
 
-- title: Technical Skills
-  type: list
-  contents:
-    - <u>Programming:</u> MATLAB, Python, R
+- #title: Technical Skills
+  #type: list
+  #contents:
+  #  - <u>Programming:</u> MATLAB, Python, R
