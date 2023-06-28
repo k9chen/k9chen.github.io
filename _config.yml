@@ -5,7 +5,7 @@
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Kelvin
 middle_name:
-last_name: Chen
+last_name: Chen (陈凯文)
 email: ddw4hp@virginia.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Personal Website of Kelvin Chen
@@ -15,7 +15,7 @@ footer_text: >
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: symbol.png  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: tracts.png  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://k9chen.github.io # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/
