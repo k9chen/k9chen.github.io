@@ -23,7 +23,7 @@ My research focuses on translating the neuropathological mechanisms and biomarke
 
 Of relevance to my research is analyzing the neuroethical implications of brain intervention technologies on patient wellbeing in the context of delivering quality care and conducting clinical trials.
 
-My non-academic interests include, inter alia, drinking caffeine, watching political satire, and finding the One Piece.
+My non-academic interests include, inter alia, drinking caffeine, watching political satire, reading Ken Liu, and searching for the One Piece.
 
 ## News/Upcoming Events
 * **Aug. 11, 2023**: The project **Spherical Mean Technique-Based Multi-Compartmental MRI Modeling for Peripheral Neuropathy Imaging** will be presented at the Barrow Neurological Institute REU Symposium
