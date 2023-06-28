@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: A brief introduction  
+subtitle: A space for questions, collaborations, and fruitful ideas. 
 
 profile:
   align: right
@@ -23,7 +23,7 @@ My research focuses on translating the neuropathological mechanisms and biomarke
 
 Of relevance to my research is analyzing the neuroethical implications of brain intervention technologies on patient wellbeing in the context of delivering quality care and conducting clinical trials.
 
-My recreational interests include, inter alia, drinking caffeine, watching political satire, reading Ken Liu, and searching for the One Piece.
+My recreational interests include, inter alia, drinking caffeine, watching political satire, reading Ken Liu, and finding the One Piece.
 
 
 ## News/Upcoming Events
@@ -35,6 +35,6 @@ My recreational interests include, inter alia, drinking caffeine, watching polit
 * Chen, K. (2023). **Towards a Brave New World: The Huxleyan Reality of Using Pharmacological Neuroenhancement** *Grounds: The Virginia Journal of Bioethics* [[HTML]](http://www.vabioethics.com/content/2023/1/12/towards-a-brave-new-world-the-huxleyan-reality-of-using-pharmocological-neuroenhancement)
 
 ## Quotes
-* "The more you know, the more you owe." ― Luis Rodríguez, *Always Running*
-* "The cruelest walls are made of glass" ― Ocean Vuong, *On Earth We're Briefly Gorgeous*
-* "It's like Tolstoy said. Happiness is an allegory, unhappiness a story." ― Haruki Murakami, *Kafka on the Shore*
+* "I am a cage, in search of a bird." ― Franz Kafka
+* "The more you know, the more you owe." ― Luis J. Rodríguez
+* "Happiness is an allegory, unhappiness a story" ― Leo Tolstoy
