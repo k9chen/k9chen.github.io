@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: A space for questions, collaborations, and fruitful ideas. 
+subtitle: A space for questions, collaborations, and fruitful ideas.
 
 profile:
   align: right
@@ -35,6 +35,6 @@ My recreational interests include, inter alia, drinking caffeine, watching polit
 * Chen, K. (2023). **Towards a Brave New World: The Huxleyan Reality of Using Pharmacological Neuroenhancement** *Grounds: The Virginia Journal of Bioethics* [[HTML]](http://www.vabioethics.com/content/2023/1/12/towards-a-brave-new-world-the-huxleyan-reality-of-using-pharmocological-neuroenhancement)
 
 ## Quotes
-* "I am a cage, in search of a bird." ― Franz Kafka
-* "The more you know, the more you owe." ― Luis J. Rodríguez
-* "Happiness is an allegory, unhappiness a story" ― Leo Tolstoy
+* "How can a three-pound mass of jelly that you can hold in your palm imagine angels, contemplate the meaning of infinity, and even question its own place in the cosmos? [...] This, truly, it the greatest mystery of all." ― V.S. Ramachandran
+* "It is strange to see how the populace, which nourishes its imagination with tales of witches or saints, mysterious events and extraordinary occurrences, disdains the world around it as commonplace, monotonous and prosaic, without suspecting that at bottom it is all secret, mystery and marvel." ― Santiago Ramón y Cajal
+* "The body does whatever it wants. I am not my body; I am my mind." ― Rita Levi-Montalcini
