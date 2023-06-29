@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: A space for questions, collaborations, and fruitful ideas.
+subtitle: The more I know, the more I owe; ergo, I became a pursuer of science.
 
 profile:
   align: right
@@ -17,7 +17,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Originally from Fujian, China, I am an undergraduate student at the [University of Virginia](https://www.virginia.edu/) pursuing a double major in neuroscience and cognitive science with a minor in bioethics. Presently, I am an MRI research intern at the [Barrow Neurological Institute](https://www.barrowneuro.org/) advised by [Dr. Richard Dortch](https://www.barrowneuro.org/person/richard-dortch-phd/).
+Originally from Fujian, China, I am an undergraduate student at the [University of Virginia](https://www.virginia.edu/) completing a double major in neuroscience and cognitive science with a minor in bioethics. Presently, I am an MRI research intern at the [Barrow Neurological Institute](https://www.barrowneuro.org/) advised by [Dr. Richard Dortch](https://www.barrowneuro.org/person/richard-dortch-phd/).
 
 My research focuses on translating the neuropathological mechanisms and biomarkers of nervous system disorders into novelly refined diagnostic and therapeutic tools for clinical applications.
 
