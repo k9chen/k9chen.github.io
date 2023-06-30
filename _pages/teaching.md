@@ -14,7 +14,5 @@ nav_order: 3
 </style>
 
 
-|  <img src="../assets/img/uva.jpg" height="30px" >    | ||
 
-|| Spring 2021 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 17-450/950  [Crafting Software](https://cmu-crafting-software.github.io/) |
-|| Fall 2023 | TA, CHEM 1811: Principles of Chemical Structure Lab (Accelerated) | 
+|| Fall 2023 | TA, CHEM 1811: Principles of Chemical Structure Lab (Accelerated), UVA | 
