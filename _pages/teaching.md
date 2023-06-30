@@ -1,10 +1,20 @@
 ---
 layout: page
-permalink: /talks/
-title: Talks
+permalink: /teaching/
+title: Teaching
 description:
 nav: true
-nav_order: 2
+nav_order: 3
 ---
-## Symposiums
-* Poster presentation on developing a realistic SMT-based finite difference simulation model using diffusion MRI and nerve histology data for applications in peripheral neuropathy at the [Barrow Neurological Institute](https://www.barrowneuro.org/), Aug. 11, 2023
+
+<style>
+.tablelines table, .tablelines td, .tablelines th {
+        border: 1px solid black;
+        }
+</style>
+
+
+|  <img src="../assets/img/uva.jpg" height="30px" >    | ||
+
+|| Spring 2021 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 17-450/950  [Crafting Software](https://cmu-crafting-software.github.io/) |
+|| Fall 2023 | TA, CHEM 1811: Principles of Chemical Structure Lab (Accelerated) | 
