@@ -19,12 +19,11 @@ social: true  # includes social icons at the bottom of the page
 
 Originally from Fujian, China, I am an undergraduate student at the [University of Virginia](https://www.virginia.edu/) completing a double major in neuroscience and cognitive science with a minor in bioethics. Presently, I am an MRI research intern at the [Barrow Neurological Institute](https://www.barrowneuro.org/) advised by [Dr. Richard Dortch](https://www.barrowneuro.org/person/richard-dortch-phd/).
 
-<center>
-<a href="/cv/" class="btn btn-sm z-depth-0" role="button">Curriculum Vitae</a>
-</center>
+My research focuses on translating the neuropathological mechanisms and biomarkers of nervous system disorders into novelly refined diagnostic and therapeutic tools for clinical applications.
 
-<br>
-My research focuses on translating the neuropathological mechanisms and biomarkers of nervous system disorders into novelly refined diagnostic and therapeutic tools for clinical applications. Of relevance to my research is analyzing the neuroethical implications of brain intervention technologies on patient wellbeing in the context of delivering quality care and conducting clinical trials. My recreational interests include, inter alia, drinking caffeine, watching political satire, reading Ken Liu, and finding the One Piece.
+Of secondary relevance to my research is analyzing the neuroethical implications of brain intervention technologies on patient wellbeing in the context of delivering quality care and conducting clinical trials. 
+
+My recreational interests include, inter alia, drinking caffeine, watching political satire, reading Ken Liu, and finding the One Piece.
 
 
 ## News/Upcoming Events
