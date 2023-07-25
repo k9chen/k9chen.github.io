@@ -7,4 +7,4 @@ nav: true
 nav_order: 2
 ---
 ## Symposiums
-* Poster presentation on developing a realistic SMT-based finite difference simulation model using diffusion MRI and rat nerve histology data for applications in peripheral neuropathy at the [Barrow Neurological Institute](https://www.barrowneuro.org/), Aug. 11, 2023
+* Poster presentation on developing a pathologically realistic SMT-based finite difference simulation model using multi-compartmental diffusion MRI and histological PNS nerve image data for diagnostic applications in peripheral neuropathy at the [Barrow Neurological Institute](https://www.barrowneuro.org/), Aug. 11, 2023

@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: The more I know, the more I owe; ergo, I became a pursuer of science.
+subtitle: Discovering the nature of the healthy and diseased mind.
 
 profile:
   align: right
@@ -17,17 +17,17 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Originally from Fujian, China, I am an undergraduate student at the [University of Virginia](https://www.virginia.edu/) completing a double major in neuroscience and cognitive science with a minor in bioethics. Presently, I am an MRI research intern at the [Barrow Neurological Institute](https://www.barrowneuro.org/) advised by [Dr. Richard Dortch](https://www.barrowneuro.org/person/richard-dortch-phd/).
+Originally from Fujian, China, I am an undergraduate student at the [University of Virginia](https://www.virginia.edu/) completing a double major in neuroscience and cognitive science with a minor in bioethics. Presently, I am a research intern at the [Barrow Neurological Institute](https://www.barrowneuro.org/) advised by [Dr. Richard Dortch](https://www.barrowneuro.org/person/richard-dortch-phd/).
 
 My research focuses on translating the neuropathological mechanisms and biomarkers of nervous system disorders into novelly refined diagnostic and therapeutic tools for clinical applications.
 
-Of secondary relevance to my research is analyzing the neuroethical implications of brain intervention technologies on patient wellbeing in the context of delivering quality care and conducting clinical trials. 
+Of secondary relevance to my research is analyzing the neuroethical implications of brain intervention technologies on patient wellbeing in the context of delivering quality care and conducting clinical trials.
 
-My recreational interests include, inter alia, drinking caffeine, watching political satire, reading Ken Liu, and finding the One Piece.
+My recreational interests include, inter alia, drinking caffeine, watching political satire, and reading Ken Liu and John Chu.
 
 
 ## News/Upcoming Events
-* **Aug. 11, 2023**: The project **Spherical Mean Technique-Based Multi-Compartmental MRI Modeling for Peripheral Neuropathy Imaging** will be presented at the Barrow Neurological Institute REU Symposium
+* **Aug. 11, 2023**: The project **A Pathologically Realistic Spherical Mean Technique-Based Computational Model for Assaying Axonal Volume Fraction in Injured Peripheral Nerve Bundles** will be presented at the Barrow Neurological Institute REU Symposium
 
 ## Selected Publications
 * Chen, K. (2023). **On the Psychological Disembodiment of Autonomy and Agency in Patients with Brain-Computer Interface Implants**. *Grounds: The Virginia Journal of Bioethics* [[HTML]](http://www.vabioethics.com/content/2023/5/2/on-the-psychological-disembodiment-of-autonomy-and-agency-in-patients-with-brain-computer-interface-implants)
