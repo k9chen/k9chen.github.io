@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Discovering the nature of the healthy and diseased mind.
+subtitle: Deciphering the nature of the healthy and diseased brain.
 
 profile:
   align: right
