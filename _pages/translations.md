@@ -2,7 +2,7 @@
 layout: page
 title: Translations
 permalink: /publications/translations/
-description: Here I translate news and opinion articles from English into Mandarin. (*) denotes original author and (†) denotes translator. Additional translated articles can be found by subscribing to the official The Cavalier Daily WeChat page (WeChat ID: UVaCavDaily).
+description: (*) denotes original author and (†) denotes translator. 
 nav: false
 nav_order:
 
