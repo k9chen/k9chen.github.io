@@ -9,6 +9,6 @@ nav_order:
 <!-- _pages/publications.md -->
 <div class="publications">
 
-{% bibliography -f {{ site.scholar.bibliography }} %}
+{% bibliography -f papers -q @*[category=Editorials]* %}
 
 </div>
