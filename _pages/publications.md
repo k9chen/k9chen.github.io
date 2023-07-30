@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: /publications/
 title: Publications
 categories: [editorials, translations]
 nav: true
