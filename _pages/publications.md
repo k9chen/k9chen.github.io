@@ -1,14 +1,14 @@
 ---
 layout: page
-permalink: /editorials/
-title: Editorials
-description:
-nav: false
-nav_order:
+title: Publications
+nav: true
+nav_order: 1
+dropdown: true
+categories: [Editorials, Translations]
+children:
+    - title: Editorials
+      permalink: publications/editorials/
+    - title: divider
+    - title: Translations
+      permalink: publications/translations/
 ---
-<!-- _pages/publications.md -->
-<div class="publications">
-
-{% bibliography -f papers -q @*[category=Editorials]* %}
-
-</div>

@@ -1,13 +1,13 @@
 ---
 layout: page
 title: Translations
-permalink: /translations/
+permalink: /publications/translations/
 description:
 nav: false
 nav_order:
 
 ---
-<!-- _pages/projects.md -->
+<!-- _pages/translations.md -->
 <div class="publications">
 
 {% bibliography -f papers -q @*[category=Translations]* %}
