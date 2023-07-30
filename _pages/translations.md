@@ -7,9 +7,8 @@ nav: false
 nav_order:
 
 ---
-Aadditional translated news and opinion articles can be found by subscribing to the official The Cavalier Daily WeChat page (WeChat ID: UVaCavDaily).
+Additional translated news and opinion articles can be found by subscribing to the official《今日弗大 The Cavalier Daily》WeChat page (WeChat ID: UVaCavDaily).
 
----
 <!-- _pages/translations.md -->
 <div class="publications">
 
