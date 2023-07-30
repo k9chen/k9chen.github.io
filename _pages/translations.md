@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /translations/
+permalink: /publications/translations
 title: Translations
 description:
 nav: false

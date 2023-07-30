@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /editorials/
+permalink: /publications/editorials
 title: Editorials
 description:
 nav: false
