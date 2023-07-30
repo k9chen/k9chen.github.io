@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Publications
+categories: [editorials, translations]
 nav: true
 nav_order: 1
 dropdown: true
