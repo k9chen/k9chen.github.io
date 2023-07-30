@@ -1,10 +1,10 @@
 ---
 layout: page
-permalink: /publications/
-title: Publications
+permalink: /editorials/
+title: Editorials
 description:
 nav: false
-nav_order: 
+nav_order:
 ---
 <!-- _pages/publications.md -->
 <div class="publications">
