@@ -6,8 +6,8 @@ nav_order: 1
 dropdown: true
 children:
     - title: Editorials
-      permalink: /editorials/
+      permalink: /publications/editorials
     - title: divider
     - title: Translations
-      permalink: /translations/
+      permalink: /publications/translations
 ---
