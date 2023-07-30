@@ -2,7 +2,7 @@
 layout: page
 title: Translations
 permalink: /publications/translations/
-description: Here I translate news and opinion articles from English into Mandarin. (*) denotes original author and (†) denotes translator. Additional translated articles can be found by subscribing to the official WeChat page《今日弗大》(WeChat ID: UVaCavDaily). 
+description: Here I translate news and opinion articles from English into Mandarin. (*) denotes original author and (†) denotes translator. Additional translated articles can be found by subscribing to the official WeChat page今日弗大 (WeChat ID: UVaCavDaily).
 nav: false
 nav_order:
 
