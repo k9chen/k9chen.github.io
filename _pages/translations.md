@@ -15,4 +15,3 @@ Additional translated news and opinion articles can be found by subscribing to t
 {% bibliography -f papers -q @*[category=Translations]* %}
 
 </div>
-up
