@@ -2,7 +2,7 @@
 layout: page
 title: Translations
 permalink: /publications/translations/
-description: (*) denotes original author and (†) denotes translator; additional translated news and opinion articles can be found by subscribing to the official《今日弗大 The Cavalier Daily》WeChat page (WeChat ID: UVaCavDaily).
+description: (*) denotes original author and (†) denotes translator; additional translated news and opinion articles can be found by subscribing to the official 今日弗大 The Cavalier Daily WeChat page (WeChat ID: UVaCavDaily).
 nav: false
 nav_order:
 
@@ -13,3 +13,4 @@ nav_order:
 {% bibliography -f papers -q @*[category=Translations]* %}
 
 </div>
+up
