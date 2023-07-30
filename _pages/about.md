@@ -23,7 +23,7 @@ My research focuses on translating the neuropathological mechanisms and biomarke
 
 Of secondary relevance to my research is analyzing the neuroethical implications of brain intervention technologies on patient wellbeing in the context of delivering quality care and conducting clinical trials.
 
-My recreational interests include, inter alia, drinking caffeine, watching political satire, and reading Ken Liu and John Chu.
+My recreational interests include, inter alia, drinking caffeine, watching political satire, and reading Ken Liu, John Chu, and Wang Jinkang (to name a few). 
 
 
 ## News/Upcoming Events
