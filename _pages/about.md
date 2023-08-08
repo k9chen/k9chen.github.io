@@ -3,7 +3,7 @@ layout: about
 title: About
 permalink: /
 subtitle: Deciphering the nature of the healthy and diseased brain.
-
+footer: img/math.png
 profile:
   align: right
   image: picture.jpeg
