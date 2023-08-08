@@ -27,7 +27,7 @@ My recreational interests include, inter alia, drinking caffeine, watching polit
 
 
 ## News/Upcoming Events
-* **Aug. 11, 2023**: The project **A Pathologically Realistic Spherical Mean Technique-Based Computational Model for Assaying Axonal Volume Fraction in Injured Peripheral Nerves** will be presented at the Barrow Neurological Institute REU Symposium
+* **Aug. 11, 2023**: The project **Geometry-Informed Multi-Compartmental Diffusion MRI Modeling of Injured Peripheral Nerves** will be presented at the Barrow Neurological Institute REU Symposium
 
 ## Selected Publications
 * Chen, K. (2023). **On the Psychological Disembodiment of Autonomy and Agency in Patients with Brain-Computer Interface Implants**. *Grounds: The Virginia Journal of Bioethics* [[HTML]](http://www.vabioethics.com/content/2023/5/2/on-the-psychological-disembodiment-of-autonomy-and-agency-in-patients-with-brain-computer-interface-implants)
