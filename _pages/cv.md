@@ -4,5 +4,5 @@ permalink: /cv/
 title: CV
 nav: true
 nav_order: 4
-cv_pdf: Curriculum_Vitae_KChen.pdf
+cv_pdf: CV_K_CHEN.pdf
 ---
