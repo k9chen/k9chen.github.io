@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Deciphering the nature of the healthy and diseased brain.
+subtitle:
 profile:
   align: right
   image: picture.jpeg
@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Originally from Fujian, China, I am an undergraduate student at the [University of Virginia](https://www.virginia.edu/) pursuing a double major in neuroscience and cognitive science with a minor in bioethics. Presently, I am a research intern at the [Barrow Neurological Institute](https://www.barrowneuro.org/) advised by [Dr. Richard Dortch](https://www.barrowneuro.org/person/richard-dortch-phd/).
+Originally from Fujian, China, I am an undergraduate student at the [University of Virginia](https://www.virginia.edu/) pursuing a double major in neuroscience and cognitive science with a minor in bioethics. Presently, I am a researcher at the [UVA School of Medicine](https://med.virginia.edu/) working on projects related to iPSC-induced 3D brain organoid models and the pathophysiology of Alzheimer's disease, advised by [Dr. Lulu Jiang](https://med.virginia.edu/neuroscience/faculty/primary-faculty/lulu-jiang-md-phd/).
 
 My research focuses on translating the neuropathological mechanisms and biomarkers of nervous system disorders into novelly refined diagnostic and therapeutic tools for clinical applications.
 
