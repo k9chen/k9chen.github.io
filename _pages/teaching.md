@@ -16,4 +16,4 @@ nav_order: 3
 
 
 | Fall 2023 | TA, CHEM 1811: Principles of Chemical Structure Lab (Accelerated) | UVA |
-| Fall 2023 | TA, CHEM 2311: Organic Chemistry Lab I (for Non-Chemistry Majors)| UVA |
+| Fall 2023 | TA, CHEM 2311: Organic Chemistry Lab I (for Non-Chemistry Majors/Minors)| UVA |
