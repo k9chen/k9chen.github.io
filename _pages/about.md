@@ -20,7 +20,7 @@ Originally from Fujian, China, I am a second-year at the [University of Virginia
 
 My research focuses on translating the neuropathological mechanisms and biomarkers of nervous system disorders into novelly refined diagnostic and therapeutic tools for clinical applications. Of secondary relevance to my research is analyzing the neuroethical implications of brain intervention technologies on patient wellbeing in the context of delivering quality care and conducting clinical trials.
 
-My recreational interests include, inter alia, drinking caffeine, watching political satire, reading Ken Liu, John Chu, and Wang Jinkang (to name a few of my regulars), and theorizing about extraterrestrial intelligence.
+My recreational interests include, inter alia, drinking caffeine, watching political satire, reading sci-fi and magical realism, and theorizing about extraterrestrial intelligence.
 
 
 ## News/Upcoming Events
