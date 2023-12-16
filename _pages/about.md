@@ -5,7 +5,7 @@ permalink: /
 subtitle:
 profile:
   align: right
-  image: newpf.jpg
+  image: profilepic.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>Charlottesville, VA</p>
