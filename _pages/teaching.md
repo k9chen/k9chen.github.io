@@ -3,17 +3,17 @@ layout: page
 permalink: /teaching/
 title: Teaching
 description:
-nav: true
+years: [Spring 2024, Fall 2023]
+nav: false
 nav_order: 3
 ---
+Below are the courses for which I have served as an undergraduate TA
 
-<style>
-.tablelines table, .tablelines td, .tablelines th {
-        border: 1px solid black;
-        }
-</style>
+<div class="publications">
 
+{% for y in page.years %}
+  <h2 class="year">{{y}}</h2>
+  {% bibliography -f classes -q @*[year={{y}}]* %}
+{% endfor %}
 
-|Spring 2024| TA, CHEM 2321: Organic Chemistry Lab II (for Non-Chemistry Majors)| UVA |
-| Fall 2023 | TA, CHEM 1811: Principles of Chemical Structure Lab (Accelerated) | UVA |
-| Fall 2023 | TA, CHEM 2311: Organic Chemistry Lab I (for Non-Chemistry Majors)| UVA |
+</div>
