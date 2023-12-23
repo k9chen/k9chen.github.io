@@ -20,7 +20,7 @@ Originally from Fujian, China, I am a second-year at the [University of Virginia
 
 My research focuses on translating the neuropathological mechanisms of [nervous system disorders](https://www.ninds.nih.gov/health-information/disorders) into novel diagnostic and therapeutic tools for clinical applications. Of secondary relevance to my research is analyzing the [neuroethics](https://www.ninds.nih.gov/current-research/focus-tools-topics/focus-neuroethics#:~:text=Neuroethics%20is%20a%20field%20that,identity%2C%20consciousness%2C%20and%20autonomy.) of brain intervention technologies on patient wellbeing in the context of delivering quality care and conducting clinical trials.
 
-My recreational interests include, inter alia, drinking caffeine, watching political satire, and reading manga, sci-fi, and magical realism.
+I have a special affection for a morning dose of caffeine, political satire, and, inter alios, the literary works of Ken Liu, Adrian Tchaikovsky, and Keigo Higashino.
 
 
 ## News/Upcoming Events
