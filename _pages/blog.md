@@ -1,7 +1,9 @@
 ---
-layout: default
+layout: page
 permalink: /blog/
-title: blog
+blog_name: Scientifik # blog_name will be displayed in your blog page
+blog_nav_title: Blog # your blog must have a title for it to be displayed in the nav bar
+blog_description: Hello World
 nav: true
 nav_order: 1
 pagination:
