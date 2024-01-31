@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /talks/
-title: Talks
+permalink: /presentations/
+title: Presentations
 category: [Posters]
 description:
 nav: true
