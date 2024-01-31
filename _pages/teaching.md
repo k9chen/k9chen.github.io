@@ -7,7 +7,7 @@ description:
 nav: true
 nav_order: 4
 ---
-Below are the courses for which I have served as an undergraduate TA
+Below are the courses for which I have served as an undergraduate TA:
 
 <div class="publications">
 

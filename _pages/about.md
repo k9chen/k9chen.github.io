@@ -19,11 +19,11 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 
-Originally from Fujian, China, I am a second-year at the [University of Virginia](https://www.virginia.edu/) pursuing a double major in neuroscience and cognitive science with a minor in bioethics. Presently, I am an undergraduate researcher at the [UVA School of Medicine](https://med.virginia.edu/) working on projects related to iPSC-induced 3D brain organoid models and the pathophysiology of Alzheimer's disease, advised by [Dr. Lulu Jiang](https://med.virginia.edu/neuroscience/faculty/primary-faculty/lulu-jiang-md-phd/) at the [Center for Brain Immunology and Glia](https://med.virginia.edu/big/).
+Originally from Fujian, China, I am a second-year at the [University of Virginia](https://www.virginia.edu/) pursuing a double major in neuroscience and cognitive science with a minor in bioethics. Presently, I am an undergraduate researcher at the [UVA School of Medicine](https://med.virginia.edu/) working on disease-oriented projects that center around Alzheimer's disease, advised by [Dr. Lulu Jiang](https://med.virginia.edu/neuroscience/faculty/primary-faculty/lulu-jiang-md-phd/) at the [Center for Brain Immunology and Glia](https://med.virginia.edu/big/); as well as ischemic stroke, advised by [Dr. Petr Tvrdik](https://med.virginia.edu/faculty/faculty-listing/pt8bm/) at the [Stroke and Vascular Lab](https://med.virginia.edu/neurosurgery/research/stroke-and-vascular-lab/).
 
 My research focuses on translating the neuropathological mechanisms of [nervous system disorders](https://www.ninds.nih.gov/health-information/disorders) into novel diagnostic and therapeutic tools for clinical applications. Of secondary relevance to my research is analyzing the [neuroethics](https://www.ninds.nih.gov/current-research/focus-tools-topics/focus-neuroethics#:~:text=Neuroethics%20is%20a%20field%20that,identity%2C%20consciousness%2C%20and%20autonomy.) of brain intervention technologies on patient wellbeing in the context of delivering quality care and conducting clinical trials.
 
-I have a not-so-peculiar affection for a morning dose of caffeine, political satire, and the literary works of, inter alios, Ken Liu and Adrian Tchaikovsky.
+I have a not-so-peculiar affection for a morning cup of tea, political satire, and the literary works of, inter alios, Ken Liu and Adrian Tchaikovsky.
 
 
 ## News/Upcoming Events
