@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Disease-Oriented Research at the <a href='https://med.virginia.edu/neurosurgery/research/stroke-and-vascular-lab/'>Stroke and Vascular Lab</a>
+subtitle:
 profile:
   align: right
   image: profilepic.jpg
@@ -19,11 +19,11 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 
-Hello! I am a second-year at the [University of Virginia](https://www.virginia.edu/) pursuing a double major in neuroscience and cognitive science with a minor in bioethics. Presently, I am an undergraduate researcher at the [UVA School of Medicine](https://med.virginia.edu/) working on projects that aim to understand 1) protein-protein/RNA interactions in Alzheimer's disease and 2) microglial activities in ischemic stroke, advised by Drs. [Lulu Jiang](https://med.virginia.edu/neuroscience/faculty/primary-faculty/lulu-jiang-md-phd/) and [Petr Tvrdik](https://med.virginia.edu/faculty/faculty-listing/pt8bm/) in the Departments of Neuroscience and Neurosurgery, respectively. Previously, I was a summer research intern at the [Barrow Neurological Institute](https://www.barrowneuro.org/), where I studied peripheral neuropathy based on neuroimaging methods with Dr. [Richard Dortch](https://www.barrowneuro.org/person/richard-dortch-phd/) in the Department of Translational Neuroscience.
+Hello! I am a second-year at the [University of Virginia](https://www.virginia.edu/) pursuing a double major in neuroscience and cognitive science with a minor in bioethics. Presently, I am an undergraduate researcher at the [UVA School of Medicine](https://med.virginia.edu/) working on projects that aim to understand 1) protein-protein/RNA interactions in Alzheimer's disease and 2) microglial activities in ischemic stroke, advised by Drs. [Lulu Jiang](https://med.virginia.edu/neuroscience/faculty/primary-faculty/lulu-jiang-md-phd/) and [Petr Tvrdik](https://med.virginia.edu/faculty/faculty-listing/pt8bm/) in the Departments of Neuroscience and Neurosurgery, respectively.
 
-My research focuses on translating the neuropathological mechanisms of [nervous system disorders](https://www.ninds.nih.gov/health-information/disorders) into novel diagnostic and therapeutic tools for clinical applications. Of secondary relevance to my research is analyzing the [neuroethics](https://www.ninds.nih.gov/current-research/focus-tools-topics/focus-neuroethics#:~:text=Neuroethics%20is%20a%20field%20that,identity%2C%20consciousness%2C%20and%20autonomy.) of brain intervention technologies on patient wellbeing in the context of delivering quality care and conducting clinical trials.
+My research focuses on translating the neuropathological mechanisms of [nervous system disorders](https://www.ninds.nih.gov/health-information/disorders) into novel diagnostic and therapeutic tools for clinical applications. Of secondary interest to my research is analyzing the [neuroethics](https://www.ninds.nih.gov/current-research/focus-tools-topics/focus-neuroethics#:~:text=Neuroethics%20is%20a%20field%20that,identity%2C%20consciousness%2C%20and%20autonomy.) of brain intervention technologies on patient wellbeing in the context of delivering quality care and conducting clinical trials.
 
-I have a not-so-peculiar affection for a morning cup of tea, political satire, and the literary works of, inter alios, Ken Liu and Adrian Tchaikovsky.
+I have a not-so-peculiar affection for a morning cup of tea, political satire, and the literary works of, inter alios, Ken Liu and Ted Chiang.
 
 <hr>
 
