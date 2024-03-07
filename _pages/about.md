@@ -2,13 +2,15 @@
 layout: about
 title: About
 permalink: /
-subtitle: Translational Research @ UVASOM Stroke & Vascular Lab
+header:
+  image: sunset.jpg
+subtitle: Translational Research @ UVASOM [Stroke & Vascular Disease Laboratory](https://med.virginia.edu/neurosurgery/research/stroke-and-vascular-lab/)
 profile:
   align: right
   image: profilepic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Charlottesville, VA</p>
+    <p>Figure 1.</p> Image of a humble servant of science.
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
