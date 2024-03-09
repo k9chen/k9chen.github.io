@@ -27,7 +27,8 @@ I have a not-so-peculiar affection for midnight snacks, political satire, and th
 <hr>
 
 ## News/Upcoming Events
-* **Aug. 11, 2023:** The project **Geometry-Informed Multi-Compartmental Diffusion MRI Modeling of Injured Peripheral Nerves** will be presented at the Barrow Neurological Institute Summer Undergraduate Research Symposium
+* **Mar 8, 2024:** The 21st annual FLIM & FRET microscopy workshop on **Label-Free NAD(P)H/FAD Metabolic Imaging** was successfully concluded at the UVA W.M. Keck Center for Cellular Imaging. See [here](https://kcci.virginia.edu/workshop-2025) for next year's workshop.   
+* **Aug 11, 2023:** The project **Geometry-Informed Multi-Compartmental Diffusion MRI Modeling of Injured Peripheral Nerves** will be presented at the Barrow Neurological Institute Summer Undergraduate Research Symposium. Special thanks to members of the Dortch Lab at the Barrow Neuroimaging Innovation Center!
 
 ## Selected Publications
 * Chen, K. (2023). **On the Psychological Disembodiment of Autonomy and Agency in Patients with Brain-Computer Interface Implants**. *Grounds: The Virginia Journal of Bioethics* [[HTML]](http://www.vabioethics.com/content/2023/5/2/on-the-psychological-disembodiment-of-autonomy-and-agency-in-patients-with-brain-computer-interface-implants)
