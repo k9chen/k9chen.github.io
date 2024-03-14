@@ -27,7 +27,7 @@ I have a not-so-peculiar affection for midnight snacks, political satire, and th
 <hr>
 
 ## News/Upcoming Events
-* **Mar 8, 2024:** The 21st annual FLIM & FRET microscopy workshop on **Label-Free NAD(P)H/FAD Metabolic Imaging** was successfully concluded at the UVA W.M. Keck Center for Cellular Imaging. See [here](https://kcci.virginia.edu/workshop-2025) for next year's workshop.   
+* **Mar 08, 2024:** The 21st annual FLIM & FRET microscopy workshop on **Label-Free NAD(P)H/FAD Metabolic Imaging** was successfully concluded at the UVA W.M. Keck Center for Cellular Imaging. See [here](https://kcci.virginia.edu/workshop-2025) for next year's workshop.   
 * **Aug 11, 2023:** The project **Geometry-Informed Multi-Compartmental Diffusion MRI Modeling of Injured Peripheral Nerves** will be presented at the Barrow Neurological Institute Summer Undergraduate Research Symposium. Special thanks to members of the Dortch Lab at the Barrow Neuroimaging Innovation Center!
 
 ## Selected Publications
