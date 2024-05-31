@@ -11,10 +11,3 @@ children:
     - title: Undergraduate
       permalink: teaching/undergraduate/
 ---
-Below are the courses for which I have served as an undergraduate TA:
-
-<div class="publications">
-
-{% bibliography -f papers -q @*[category=Undergraduate]* %}
-
-</div>

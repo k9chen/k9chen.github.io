@@ -2,7 +2,7 @@
 layout: page
 permalink: /talks/
 title: Talks
-categories: [Symposiums]
+category: [Symposiums]
 description:
 nav: true
 nav_order: 3
@@ -11,10 +11,3 @@ children:
     - title: Symposiums
       permalink: talks/symposiums/
 ---
-
-<!-- _pages/talks.md -->
-<div class="publications">
-
-{% bibliography -f papers -q @*[category=Symposiums]* %}
-
-</div>
