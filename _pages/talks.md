@@ -2,7 +2,7 @@
 layout: page
 permalink: /talks/
 title: Talks
-category: [Symposiums]
+categories: [Symposiums]
 description:
 nav: true
 nav_order: 3

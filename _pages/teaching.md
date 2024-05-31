@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-category: [Undergraduate]
+categories: [Undergraduate]
 description:
 nav: true
 nav_order: 4
