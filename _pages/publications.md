@@ -11,5 +11,4 @@ children:
     - title: divider
     - title: Translations
       permalink: publications/translations/
-    - title: divider
 ---
