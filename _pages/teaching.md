@@ -2,12 +2,15 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-categories: [Undergraduate]
+category: [Courses]
 description:
 nav: true
 nav_order: 4
-dropdown: true
-children:
-    - title: Undergraduate
-      permalink: teaching/undergraduate/
 ---
+
+
+<div class="publications">
+
+{% bibliography -f papers -q @*[category=Courses]* %}
+
+</div>
