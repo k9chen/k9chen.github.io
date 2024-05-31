@@ -7,8 +7,8 @@ dropdown: true
 categories: [Editorials, Translations]
 children:
     - title: Editorials
-      permalink: publications/editorials/
+      permalink: papers/editorials/
     - title: divider
     - title: Translations
-      permalink: publications/translations/
+      permalink: papers/translations/
 ---
