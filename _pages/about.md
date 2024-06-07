@@ -27,13 +27,13 @@ I have a special affection for sci-fi novels, political satire, and sundubu-jjig
 <hr>
 
 ## News/Upcoming Events
-* **Mar 08, 2024:** The 21st annual FLIM & FRET microscopy workshop on **Label-Free NAD(P)H/FAD Metabolic Imaging** was successfully concluded at the UVA W.M. Keck Center for Cellular Imaging. See [here](https://kcci.virginia.edu/workshop-2025) for next year's workshop.   
-* **Aug 11, 2023:** The project **Geometry-Informed Multi-Compartmental Diffusion MRI Modeling of Injured Peripheral Nerves** will be presented at the Barrow Neurological Institute Undergraduate Research Symposium.
+* **Mar 08, 2024:** The 21st annual workshop on **FLIM & FRET Microscopy and Label-Free NAD(P)H/FAD Metabolic Imaging** was successfully concluded at the UVA W.M. Keck Center for Cellular Imaging. See [here](https://kcci.virginia.edu/workshop-2025) for next year's workshop.   
+* **Aug 11, 2023:** The project **Geometry-Informed Multi-Compartmental Diffusion MRI Modeling of Injured Peripheral Nerves** will be presented at the Barrow Neurological Institute Undergraduate Research Symposium. See [here](https://k9chen.github.io/assets/pdf/08112023.pdf) for the project poster.
 
 ## Selected Publications
-* Chen, K. (2023). **On the Psychological Disembodiment of Autonomy and Agency in Patients with Brain-Computer Interface Implants**. *Grounds: The Virginia Journal of Bioethics* [[URL]](http://www.vabioethics.com/content/2023/5/2/on-the-psychological-disembodiment-of-autonomy-and-agency-in-patients-with-brain-computer-interface-implants)
-* Chen, K. (2023). **Moral Status in Cerebral Organoids, Gastruloids, and Chimeras**. *Grounds: The Virginia Journal of Bioethics* [[URL]](http://www.vabioethics.com/content/2023/3/15/moral-status-in-cerebral-organoids-gatruloids-and-chimeras)
-* Chen, K. (2023). **Towards a Brave New World: The Huxleyan Reality of Using Pharmacological Neuroenhancement** *Grounds: The Virginia Journal of Bioethics* [[URL]](http://www.vabioethics.com/content/2023/1/12/towards-a-brave-new-world-the-huxleyan-reality-of-using-pharmocological-neuroenhancement)
+* Chen, K. **On the Psychological Disembodiment of Autonomy and Agency in Patients with Brain-Computer Interface Implants**. *Grounds: The Virginia Journal of Bioethics*, 2023 [[URL]](http://www.vabioethics.com/content/2023/5/2/on-the-psychological-disembodiment-of-autonomy-and-agency-in-patients-with-brain-computer-interface-implants)
+* Chen, K. **Moral Status in Cerebral Organoids, Gastruloids, and Chimeras**. *Grounds: The Virginia Journal of Bioethics*, 2023 [[URL]](http://www.vabioethics.com/content/2023/3/15/moral-status-in-cerebral-organoids-gatruloids-and-chimeras)
+* Chen, K. **Towards a Brave New World: The Huxleyan Reality of Using Pharmacological Neuroenhancement**. *Grounds: The Virginia Journal of Bioethics*, 2023 [[URL]](http://www.vabioethics.com/content/2023/1/12/towards-a-brave-new-world-the-huxleyan-reality-of-using-pharmocological-neuroenhancement)
 
 ## Quotes
 * "How can a three-pound mass of jelly that you can hold in your palm imagine angels, contemplate the meaning of infinity, and even question its own place in the cosmos? [...] This, truly, it the greatest mystery of all." ― V. S. Ramachandran
