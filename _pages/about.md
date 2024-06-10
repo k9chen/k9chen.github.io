@@ -11,8 +11,8 @@ profile:
     <p>Figure 1. A sunny day in Charlottesville, VA.</p>
 
 news: true  # includes a list of news items
-latest_posts: false  # includes a list of the newest posts
-selected_papers: false # includes a list of papers marked as "selected={true}"
+latest_posts: true  # includes a list of the newest posts
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 
 
@@ -25,17 +25,3 @@ My research focuses on translating the neuropathological mechanisms of [nervous 
 
 I have a special affection for sci-fi novels, political satire, and sundubu-jjigae. In case anyone is interested, my [NeuroTree](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3465338/) is viewable [here](http://neurotree.org/neurotree/tree.php?pid=936347&pnodecount=4&cnodecount=2&fontsize=1).
 <hr>
-
-## News/Upcoming Events
-* **Mar 08, 2024:** The 21st annual workshop on **FLIM & FRET Microscopy and Label-Free NAD(P)H/FAD Metabolic Imaging** was successfully concluded at the UVA W.M. Keck Center for Cellular Imaging. See [here](https://kcci.virginia.edu/workshop-2025) for next year's workshop.   
-* **Aug 11, 2023:** The project **Geometry-Informed Multi-Compartmental Diffusion MRI Modeling of Injured Peripheral Nerves** will be presented at the Barrow Neurological Institute Undergraduate Research Symposium. See [here](https://k9chen.github.io/assets/pdf/08112023.pdf) for the project poster.
-
-## Selected Publications
-* Chen, K. **On the Psychological Disembodiment of Autonomy and Agency in Patients with Brain-Computer Interface Implants**. *Grounds: The Virginia Journal of Bioethics*, 2023 [[URL]](http://www.vabioethics.com/content/2023/5/2/on-the-psychological-disembodiment-of-autonomy-and-agency-in-patients-with-brain-computer-interface-implants)
-* Chen, K. **Moral Status in Cerebral Organoids, Gastruloids, and Chimeras**. *Grounds: The Virginia Journal of Bioethics*, 2023 [[URL]](http://www.vabioethics.com/content/2023/3/15/moral-status-in-cerebral-organoids-gatruloids-and-chimeras)
-* Chen, K. **Towards a Brave New World: The Huxleyan Reality of Using Pharmacological Neuroenhancement**. *Grounds: The Virginia Journal of Bioethics*, 2023 [[URL]](http://www.vabioethics.com/content/2023/1/12/towards-a-brave-new-world-the-huxleyan-reality-of-using-pharmocological-neuroenhancement)
-
-## Quotes
-* "How can a three-pound mass of jelly that you can hold in your palm imagine angels, contemplate the meaning of infinity, and even question its own place in the cosmos? [...] This, truly, it the greatest mystery of all." ― V. S. Ramachandran
-* "It is strange to see how the populace, which nourishes its imagination with tales of witches or saints, mysterious events and extraordinary occurrences, disdains the world around it as commonplace, monotonous and prosaic, without suspecting that at bottom it is all secret, mystery and marvel." ― Santiago Ramón y Cajal
-* "The body does whatever it wants. I am not my body; I am my mind." ― Rita Levi-Montalcini
