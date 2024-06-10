@@ -1,6 +1,6 @@
 ---
 layout: distill
-title: 第一章：宇宙的开端仿佛是深吸一口气，然后屏住了呼吸 [CHN VER.]
+title: 第一章：宇宙的开端仿佛是深吸一口气，然后屏住了呼吸 [CHN VER. 1.0]
 description: 我们在宇宙中是孤独的吗？外星人在哪里？他们是好是坏？等等。
 giscus_comments: true
 date: 2024-01-04
