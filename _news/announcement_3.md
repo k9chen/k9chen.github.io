@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-The project **Microstructural Analysis of Nervous Tissues by Imaging to Simulate Diffusion MRI Signals for Applications in Peripheral Neuropathy**, a continuation of previous year's project, will be presented at the Barrow Neurological Institute Undergraduate Research Symposium. 
+The project **Microstructural Analysis of Nervous Tissues by Imaging to Simulate Diffusion MRI Signals Following Peripheral Nerve Trauma**, a continuation of previous year's project, will be presented at the Barrow Neurological Institute Undergraduate Research Symposium. 
