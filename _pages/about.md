@@ -4,7 +4,7 @@ title: About
 permalink: /
 subtitle: Translational Research @ UVASOM <a href="https://med.virginia.edu/neurosurgery/research/stroke-and-vascular-lab/">Stroke & Vascular Pathology Lab</a>
 header:
-  image: img/neu.jpg
+  image: assets/img/neu.jpg
 profile:
   align: right
   image: profilepic.jpg
