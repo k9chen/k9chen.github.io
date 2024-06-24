@@ -3,10 +3,12 @@ layout: about
 title: About
 permalink: /
 subtitle: Translational Research @ UVASOM <a href="https://med.virginia.edu/neurosurgery/research/stroke-and-vascular-lab/">Stroke & Vascular Pathology Lab</a>
+header:
+  image: neu.jpg
 profile:
   align: right
   image: profilepic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   address: >
     <p>Figure 1. A sunny day in Charlottesville, VA.</p>
 
