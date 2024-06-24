@@ -3,6 +3,8 @@ layout: about
 title: About
 permalink: /
 subtitle: Translational Research @ UVASOM <a href="https://med.virginia.edu/neurosurgery/research/stroke-and-vascular-lab/">Stroke & Vascular Pathology Lab</a>
+header:
+  image: assets/img/ramon.jpg
 # profile:
   # align: right
   # image: profilepic.jpg
