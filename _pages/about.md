@@ -4,7 +4,7 @@ title: About
 permalink: /
 # subtitle:
 header:
-  image: assets/img/ramon.jpg
+  image: assets/img/ramonycajal.jpg
   description: sss
 # profile:
   # align: right
@@ -29,4 +29,6 @@ My primary research focuses on translating neuropathological biomarkers and mech
 For the curious reader, the header image depicts a hand-drawn rendition of Golgi stained-pyramidal neurons in the cerebral cortex by neuroanatomist [Santiago Ramón y Cajal](https://www.nobelprize.org/prizes/medicine/1906/cajal/biographical/), the father of modern neuroscience, wherein the network of neurons and their structures are beautifully conveyed in this piece of microanatomical art.
 
 The following info is not needed, but is included for signaling purposes: I have a special affection for sci-fi novels, political satire, deadpan humor, sundubu-jjigae, and casual conversations about QM. Other that that, I am the human equivalent of watching paint dry. In case anyone is interested, my [NeuroTree](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3465338/) is viewable [here](http://neurotree.org/neurotree/tree.php?pid=936347&pnodecount=4&cnodecount=2&fontsize=1).
+
+"You should [...] start searching for the other half of your shadow." ― Haruki Murakami, [*Kafka on the Shore*](https://www.google.com/books/edition/Kafka_on_the_Shore/ypQHO-JWFKgC?hl=en&gbpv=1&printsec=frontcover)
 <hr>
