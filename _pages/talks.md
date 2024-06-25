@@ -7,6 +7,7 @@ description:
 nav: true
 nav_order: 2
 ---
+Below is my research history, including the projects to which I have contributed (non-exhaustive):
 ******
 #### [UVA School of Medicine, Center for Brain Immunology and Glia](https://med.virginia.edu/big/)
 **Undergraduate Researcher**, *Department of Neurosurgery & Neuroscience*\\
@@ -30,7 +31,6 @@ Numerical finite difference approximation of the Bloch-Torrey equation with a fl
 Sept 2021 - Mar 2022. *Advisor: Peter Njoki, Ph.D.*\\
 Mathematical and biochemical modeling of the kinetics of AuNPs in targeting SARS-CoV-2.
 
-Below are the papers/presentations to which I have contributed (non-exhaustive):
 <!-- _pages/talks.md -->
 <div class="publications">
 
