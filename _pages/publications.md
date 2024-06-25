@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Papers
+title: Misc.
 nav: true
-nav_order: 2
+nav_order: 4
 dropdown: true
 categories: [Editorials, Translations]
 children:
     - title: Editorials
-      permalink: publications/editorials/
+      permalink: misc/editorials/
     - title: divider
     - title: Translations
-      permalink: publications/translations/
+      permalink: misc/translations/
 ---

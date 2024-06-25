@@ -5,9 +5,9 @@ title: Teaching
 category: [Courses]
 description:
 nav: true
-nav_order: 4
+nav_order: 3
 ---
-Below are the courses for which I have served as an undergraduate TA.
+Below are the courses for which I have served as an undergraduate TA:
 
 <div class="publications">
 

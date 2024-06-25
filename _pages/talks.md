@@ -5,9 +5,9 @@ title: Research
 categories: [Posters]
 description:
 nav: true
-nav_order: 3
+nav_order: 2
 ---
-
+Below are the papers/presentations to which I have contributed:
 <!-- _pages/talks.md -->
 <div class="publications">
 
