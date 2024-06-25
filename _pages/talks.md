@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /talks/
-title: Talks
+permalink: /research/
+title: Research
 categories: [Posters]
 description:
 nav: true
