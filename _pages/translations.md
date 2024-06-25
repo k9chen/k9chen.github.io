@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Translations
-permalink: /publications/translations/
+permalink: /misc/translations/
 description: (*) denotes original author and (†) denotes translator.
 nav: false
 nav_order:

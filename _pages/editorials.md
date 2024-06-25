@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /publications/editorials/
+permalink: /misc/editorials/
 title: Editorials
-description: 
+description:
 nav: false
 nav_order:
 
