@@ -124,6 +124,8 @@ blog_name: Tabula Rasa # blog_name will be displayed in your blog page
 blog_nav_title: Blog # your blog must have a title for it to be displayed in the nav bar
 blog_description:
 permalink: /blog/:year/:title/
+nav: true
+nav_order: 4
 
 # Pagination
 pagination:
