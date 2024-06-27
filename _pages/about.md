@@ -5,7 +5,6 @@ permalink: /
 # subtitle:
 header:
   image: assets/img/banner.jpg
-  description: sss
 # profile:
   # align: right
   # image: profilepic.jpg
