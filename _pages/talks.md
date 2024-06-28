@@ -3,7 +3,7 @@ layout: page
 permalink: /research/
 title: Research
 categories: [Posters]
-description: Below is my research history, including the projects to which I have contributed (non-exhaustive):
+description: Below is my research history, including the projects to which I have contributed (non-exhaustive).
 nav: true
 nav_order: 2
 ---

@@ -3,11 +3,10 @@ layout: page
 permalink: /teaching/
 title: Teaching
 category: [Courses]
-description:
+description: Below are the courses for which I have served as an undergraduate TA.
 nav: true
 nav_order: 3
 ---
-Below are the courses for which I have served as an undergraduate TA:
 
 <div class="publications">
 
