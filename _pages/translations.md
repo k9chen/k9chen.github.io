@@ -2,7 +2,7 @@
 layout: page
 title: Translations
 permalink: /misc/translations/
-description: Additional translated articles can be found by subscribing to the official《今日弗大 The Cavalier Daily》WeChat page (WeChat ID is UVaCavDaily).
+description: Additional translated articles can be found by subscribing to the official《今日弗大 The Cavalier Daily》WeChat page.
 nav: false
 nav_order:
 
