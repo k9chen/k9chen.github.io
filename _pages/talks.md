@@ -3,11 +3,10 @@ layout: page
 permalink: /research/
 title: Research
 categories: [Posters]
-description:
+description: Below is my research history, including the projects to which I have contributed (non-exhaustive):
 nav: true
 nav_order: 2
 ---
-Below is my research history, including the projects to which I have contributed (non-exhaustive):
 <hr>
 #### [UVA School of Medicine, Center for Brain Immunology and Glia](https://med.virginia.edu/big/)
 **Undergraduate Researcher**, *Department of Neurosurgery & Neuroscience*\\
