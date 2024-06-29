@@ -27,8 +27,8 @@ May 2023 - Aug 2023. *Advisor: Richard Dortch, Ph.D.*\\
 Numerical finite difference approximation of the Bloch-Torrey equation with a flux term.
 #### [Hampton University School of Science](https://home.hamptonu.edu/science/)
 **Research Intern**, *Department of Chemistry & Biochemistry*\\
-Sept 2021 - Mar 2022. *Advisor: Peter Njoki, Ph.D.*\\
-Mathematical and biochemical modeling of the kinetics of AuNPs in targeting SARS-CoV-2.
+Sept 2021 - May 2022. *Advisor: Peter Njoki, Ph.D.*\\
+Biochemical and mathematical modeling of the kinetics of AuNPs in targeting SARS-CoV-2.
 
 <!-- _pages/talks.md -->
 <div class="publications">
