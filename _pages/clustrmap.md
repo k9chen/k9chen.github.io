@@ -1,11 +1,11 @@
 ---
 layout: page
-title: ClustrMap
-permalink: /misc/clustrmap/
+title: ClustrMaps
+permalink: /misc/clustrmaps/
 description: Site traffic.
 nav: false
 nav_order:
 
 ---
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=oSpnuuYx5IJjMRLeCaZgWW2zVzLQGGLIkPR1--vM3yo&cl=ffffff&w=a"></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=oSpnuuYx5IJjMRLeCaZgWW2zVzLQGGLIkPR1--vM3yo&co=0b4975&cmo=3acc3a&cmn=ff5353&ct=cdd4d9'></script>

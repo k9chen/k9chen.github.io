@@ -4,7 +4,7 @@ title: Misc.
 nav: true
 nav_order: 4
 dropdown: true
-categories: [Editorials, Translations, ClustrMap]
+categories: [Editorials, Translations, ClustrMaps]
 children:
     - title: Editorials
       permalink: misc/editorials/
@@ -12,6 +12,6 @@ children:
     - title: Translations
       permalink: misc/translations/
     - title: divider
-    - title: ClustrMap
-      permalink: misc/clustrmap/
+    - title: ClustrMaps
+      permalink: misc/clustrmaps/
 ---
