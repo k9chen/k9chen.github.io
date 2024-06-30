@@ -27,5 +27,5 @@ My primary research focuses on translating neuropathological biomarkers and mech
 
 The following info is not needed, but is included for signaling purposes: I have a special affection for sci-fi novels, political satire, deadpan humor, sundubu-jjigae, and casual conversations about QM. Other that that, I am the human equivalent of watching paint dry. In case anyone is interested, my [NeuroTree](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3465338/) is viewable [here](http://neurotree.org/neurotree/tree.php?pid=936347&pnodecount=4&cnodecount=2&fontsize=1).
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=oSpnuuYx5IJjMRLeCaZgWW2zVzLQGGLIkPR1--vM3yo&cl=ffffff&w=a"></script>
+
 <hr>
