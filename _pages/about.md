@@ -19,7 +19,7 @@ social: true  # includes social icons at the bottom of the page
 
 
 ---
-``Translational Neuroscience Research`` @ [UVASOM Stroke & Vascular Pathology Laboratory](https://med.virginia.edu/neurosurgery/research/stroke-and-vascular-lab/) • ``Previously``: [BNIC](https://www.barrowneuro.org/for-physicians-researchers/research/research-programs-labs/neuroimaging/imaging-center/) / [HU](https://home.hamptonu.edu/)
+``Translational Neuroscience Research`` @ [UVASOM Stroke & Vascular Laboratory](https://med.virginia.edu/neurosurgery/research/stroke-and-vascular-lab/) • ``Previously``: [BNIC](https://www.barrowneuro.org/for-physicians-researchers/research/research-programs-labs/neuroimaging/imaging-center/) / [HU](https://home.hamptonu.edu/)
 
 I am a third-year at the [University of Virginia](https://www.virginia.edu/) pursuing a double major in neuroscience and chemistry with a minor in bioethics. I am advised by Dr. [Petr Tvrdik](https://med.virginia.edu/bims/faculty/?facbio=1&id=48788) in the Department of Neurosurgery and Neuroscience at [UVA School of Medicine](https://med.virginia.edu/), where I conduct research in microglial dynamics following focal cerebral ischemia in mouse models. Presently, I am a research intern in the Division of Neuroimaging Research at [Barrow Neurological Institute](https://www.barrowneuro.org/) working on developing a dMRI-based computational framework for improving the pathological specificity of nerve re/degeneration in peripheral neuropathy, advised by Dr. [Richard Dortch](https://www.barrowneuro.org/person/richard-dortch-phd/).
 
