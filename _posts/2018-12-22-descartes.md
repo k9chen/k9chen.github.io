@@ -29,7 +29,7 @@ toc:
        - name: Act III
        - name: Act IV
        - name: Act V
-  - name: Alt. Ver.
+  - name: In Reality
   - name: The Absurd
 
 
@@ -82,13 +82,22 @@ Descartes was able to safely return back to Paris after a new king had ascended 
 When Descartes' 13th letter was intercepted by the king as usual, it only contained a mathematical expression that had perplexed him. After summoning a handful of mathematicians to decipher the meaning of this strange letter, no one was able to solve the expression, and thereafter the king gave the letter to Princess Christina. Recalling Descartes' last lesson to her, the princess cried her heart out after successfully solving the expression on the letter which read
 
 \begin{equation}
-\[ r = a (1 - \sin \theta) \]
+\ r = a (1 - \sin \theta) \
 \end{equation}
 
 On the Cartesian coordinate plane, this expression rendered a perfect heart-shaped curve known as a cardioid, representing Descartes' wholehearted love toward Princess Christina.  
 
-## What If
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/cardioid.gif" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    A cardioid attributed to Descartes' studies on analytic geometry (<a href="https://en.m.wikipedia.org/wiki/File:Cardiod_animation.gif">Image Source</a>).
+</div>
 
-Though one disclaimer is that this story to which I just told is not, in fact, historically accurate; and thus it ought to be interpreted as more of a fairy tale in lieu of a recollection of an event in the history of Descartes' life. 
+## In Reality
+
+Though one disclaimer is that this story to which I just told is not, in fact, historically accurate; and thus it ought to be interpreted as more of a fairy tale in lieu of a recollection of an event in the history of Descartes' life.
 
 *Note:* The thumbnail of this post is a 3D view of high-aperture object rotation in transmission holographic tomography ([Image Source](https://opg.optica.org/view_article.cfm?pdfKey=6480897d-6866-4017-b8482f5bddd6476b_188512)).
