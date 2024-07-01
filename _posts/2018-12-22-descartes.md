@@ -3,8 +3,8 @@ layout: distill
 title: Ch2. Descartes's Last Words, in the Form of a Cardioid
 description: The happy or perhaps sad love story between Descartes and the Princess of Sweden.
 giscus_comments: true
-date: 2024-06-09
-thumbnail: assets/img/geo.png
+date: 2024-05-23
+thumbnail: assets/img/chip.png
 
 authors:
   - name: Kelvin Chen
@@ -52,6 +52,6 @@ _styles: >
 ---
 ## Fairy Tale
 
-In progress...
+Many know René Descartes for his philosophical ideas (i.e. Cogito, ergo sum) and pioneering the field of analytic geometry in the early to mid-17th century.
 
 *Note:* The thumbnail of this post is a 3D view of high-aperture object rotation in transmission holographic tomography ([Image Source](https://opg.optica.org/view_article.cfm?pdfKey=6480897d-6866-4017-b8482f5bddd6476b_188512)).
