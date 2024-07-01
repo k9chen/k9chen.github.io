@@ -1,10 +1,10 @@
 ---
 layout: distill
-title: Ch4. Strings, Gravitons, and Dark Matter as Theories of Everything
-description: [In progress]
+title: Ch2. Descartes's Last Words, in the Form of a Cardioid
+description: The happy or perhaps sad love story between Descartes and the Princess of Sweden.
 giscus_comments: true
-date: 2024-06-08
-thumbnail: assets/img/string.png
+date: 2024-06-09
+thumbnail: assets/img/geo.png
 
 authors:
   - name: Kelvin Chen
@@ -22,8 +22,8 @@ bibliography: 2018-12-22-distill.bib
 #   - we may want to automate TOC generation in the future using
 #     jekyll-toc plugin (https://github.com/toshimaru/jekyll-toc).
 toc:
+  - name: Fairy Tale
   - name:
-
 
 
 
@@ -50,6 +50,8 @@ _styles: >
     text-justify: inter-word;
   }
 ---
-##
+## Fairy Tale
 
-*Note:* The thumbnail of this post shows the string theory landscape composed of several false vacua ([Image Source](https://www.ctc.cam.ac.uk/research/fundamental_theory_and_cosmology.php)).
+In progress...
+
+*Note:* The thumbnail of this post is a 3D view of high-aperture object rotation in transmission holographic tomography ([Image Source](https://opg.optica.org/view_article.cfm?pdfKey=6480897d-6866-4017-b8482f5bddd6476b_188512)).
