@@ -1,7 +1,7 @@
 ---
 layout: distill
 title: Ch2. Descartes' Last Words, Beautifully Expressed as a Cardioid
-description: The happy or perhaps sad love story of a beloved thinker.
+description: The happy or perhaps sad love story of a beloved thinker from history.
 giscus_comments: true
 date: 2024-05-23
 thumbnail: assets/img/genie.png
@@ -90,4 +90,4 @@ On the Cartesian coordinate plane, this expression rendered a perfect heart-shap
 
 Though one disclaimer is that this story to which I just told is not, in fact, historically accurate; for example, when Descartes met Christina in Sweden, she was already the queen at the time and instead of mathematics, Descartes taught her philosophy but died of pneumonia. Furthermore, there was never love between the two and thus it ought to be interpreted as more of a fairy tale in lieu of a recollection of an event in the history of Descartes' life.
 
-*Note:* Thumbnail Image Source: [xkcd 2776](https://xkcd.com/2776/).
+*Note:* Thumbnail Image Source: [xkcd](https://xkcd.com/152/).
