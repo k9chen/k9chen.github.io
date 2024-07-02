@@ -4,7 +4,7 @@ title: Ch2. Descartes' Last Words, Beautifully Expressed as a Cardioid
 description: The happy or perhaps sad love story of a beloved thinker.
 giscus_comments: true
 date: 2024-05-23
-thumbnail: assets/img/geo.png
+thumbnail: assets/img/wiz.png
 
 authors:
   - name: Kelvin Chen
@@ -29,7 +29,7 @@ toc:
        - name: Act III
        - name: Act IV
        - name: Act V
-  - name: In Reality
+  - name: What If
   - name: The Absurd
 
 
@@ -86,8 +86,8 @@ On the Cartesian coordinate plane, this expression rendered a perfect heart-shap
     An oil painting titled Dispute of Queen Cristina Vasa and Rene Descartes by Nils Forsberg after Pierre-Louis Dumesnil the Younger (<a href="https://hekint.org/2024/03/28/rene-descartes-found-that-sweden-was-hazardous-to-his-health/">Image Source</a>).
 </div>
 
-## In Reality
+## What If
 
-Though one disclaimer is that this story to which I just told is not, in fact, historically accurate; and thus it ought to be interpreted as more of a fairy tale in lieu of a recollection of an event in the history of Descartes' life.
+Though one disclaimer is that this story to which I just told is not, in fact, historically accurate; for example, when Descartes met Christina in Sweden, she was already the queen at the time and instead of mathematics, Descartes taught her philosophy but died of pneumonia. Furthermore, there was never love between the two and thus it ought to be interpreted as more of a fairy tale in lieu of a recollection of an event in the history of Descartes' life.
 
 *Note:* The thumbnail of this post is a 3D view of high-aperture object rotation in transmission holographic tomography ([Image Source](https://opg.optica.org/view_article.cfm?pdfKey=6480897d-6866-4017-b8482f5bddd6476b_188512)).
