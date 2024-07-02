@@ -4,7 +4,7 @@ title: Ch2. Descartes' Last Words, Beautifully Expressed as a Cardioid
 description: The happy or perhaps sad love story of a beloved thinker.
 giscus_comments: true
 date: 2024-05-23
-thumbnail: assets/img/data.png
+thumbnail: assets/img/genie.png
 
 authors:
   - name: Kelvin Chen
