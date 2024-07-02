@@ -12,6 +12,9 @@ children:
     - title: Translations
       permalink: misc/translations/
     - title: divider
+    - title: Readings
+      permalink: misc/readings/
+    - title: divider
     - title: ClustrMaps
       permalink: misc/clustrmaps/
 ---
