@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-The 21st annual workshop on [***FLIM & FRET Microscopy and Label-Free NAD(P)H/FAD Metabolic Imaging***](https://kcci.virginia.edu/workshop-2024) was successfully concluded at the UVA W.M. Keck Center for Cellular Imaging. 
+The 21st annual workshop on [**FLIM & FRET Microscopy and Label-Free NAD(P)H/FAD Metabolic Imaging**](https://kcci.virginia.edu/workshop-2024) was successfully concluded at the UVA W.M. Keck Center for Cellular Imaging. 
