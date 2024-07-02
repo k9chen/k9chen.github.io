@@ -7,7 +7,7 @@ nav: false
 nav_order:
 
 ---
-
+<hr>
 ## 2025 -- 20XX
 * Banks, I., 2004. *The Algebraist*. Orbit Books.
 * Bulgakov, M., 2001. *The Master and Margarita*. Penguin Classics.
@@ -17,6 +17,7 @@ nav_order:
 * Martine, A., 2019. *A Memory Called Empire*. Tor Books
 * Mitsuse, R., 2012. *Ten Billion Days and One Hundred Billion Nights*. Haikasoru.
 * Zafón, C. R., 2005. *The Shadow of the Wind*. Penguin Books.
+* [...]
 
 ## 2024
 * Liu, C., 2015. *The Dark Forest*. Tor Books.
