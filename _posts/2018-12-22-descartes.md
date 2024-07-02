@@ -89,11 +89,11 @@ On the Cartesian coordinate plane, this expression rendered a perfect heart-shap
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/cardioid.gif" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/queen.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    A cardioid attributed to Descartes' studies on analytic geometry (<a href="https://en.m.wikipedia.org/wiki/File:Cardiod_animation.gif">Image Source</a>).
+    A painting titled Dispute of Queen Cristina Vasa and Rene Descartes by Pierre-Louis Dumesnil the Younger (<a href="https://en.m.wikipedia.org/wiki/File:Cardiod_animation.gif">Image Source</a>).
 </div>
 
 ## In Reality
