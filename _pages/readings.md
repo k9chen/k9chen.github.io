@@ -2,7 +2,7 @@
 layout: page
 title: Readings
 permalink: /misc/readings/
-description: A list of non-academic stories that I have read/am reading/will read, mainly in the realms of science fiction, philosophical fiction, and magical realism; each list is ordered alphabetically by the surname of the author(s).
+description: A list of select non-academic stories that I have read/am reading/will read, mainly in the realms of science fiction, philosophical fiction, and magical realism; each list is ordered alphabetically by the surname of the author(s).
 nav: false
 nav_order:
 
