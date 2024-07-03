@@ -73,7 +73,7 @@ nav_order:
 * Shelly, M., 2004. *Frankenstein*. Simon & Schuster.
 * Stoker, B., 2003. *Dracula*. Simon & Schuster.
 * Sturgeon, T., 1953. *More Than Human*. Farrar, Straus & Young.
-* Süskind, P., 1986. *Perfume: The Story of a Murder*. Knopf Doubleday Publishing Group.
+* Süskind, P., 1986. *Perfume: The Story of a Murderer*. Knopf Doubleday Publishing Group.
 * Torishima, D., 2018. *Sisyphean*. Haikasoru.
 * Vonnegut, K. 1962. *Harrison Bergeron*. Mercury Press.
 * Wang, J., 2016. *Pathological* Amazon Crossing.
