@@ -25,5 +25,4 @@ My primary research focuses on translating neuropathological biomarkers and mech
 
 The following info is not needed, but is included for signaling purposes: I have a special affection for sci-fi novels, political satire, deadpan humor, sundubu-jjigae, and the [Dinosaur Game](chrome://dino/). Other that that, I am the human equivalent of watching paint dry. In case anyone is interested, my NeuroTree is viewable [here](http://neurotree.org/neurotree/tree.php?pid=936347&pnodecount=4&cnodecount=2&fontsize=1).
 
-Please contact <tt>ddw4hp[at]virginia[dot]edu</tt> or <tt>kelvin[dot]chen[at]barrowneuro[dot]org</tt> for any inquiries.
 <hr>
