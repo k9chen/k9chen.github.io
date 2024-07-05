@@ -13,8 +13,8 @@ header:
     # <p>Figure 1. A sunny day in Charlottesville, VA.</p>
 
 news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+latest_posts: false  # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 
 
@@ -23,6 +23,11 @@ I am a third-year at the [University of Virginia](https://www.virginia.edu/) pur
 
 My primary research focuses on translating neuropathological biomarkers and mechanisms of [nervous system disorders](https://www.ninds.nih.gov/health-information/disorders) into novel diagnostic and therapeutic tools for clinical applications through integrating computational and experimental methods. Of secondary interest to my research is analyzing the [neuroethical implications](https://www.ninds.nih.gov/current-research/focus-tools-topics/focus-neuroethics#:~:text=Neuroethics%20is%20a%20field%20that,identity%2C%20consciousness%2C%20and%20autonomy.) of brain intervention technologies on patient wellbeing in the context of delivering quality health care and running clinical trials to inform human understanding, ethics, and policy in research and development.
 
-The following info is not needed, but is included for signaling purposes: I have a special affection for sci-fi novels, political satire, deadpan humor, sundubu-jjigae, and the [Dinosaur Game](chrome://dino/), albeit I have a disdain towards Celsius energy drinks. In case anyone is interested, my NeuroTree is viewable [here](http://neurotree.org/neurotree/tree.php?pid=936347&pnodecount=4&cnodecount=2&fontsize=1).
+The following info is not needed, but is included for signaling purposes: I have a special affection for sci-fi novels, political satire, deadpan humor, sundubu-jjigae, and the [Dinosaur Game](chrome://dino/), albeit I have a fervid disdain towards, among other things, Celsius energy drinks. In case anyone is interested, my NeuroTree is viewable [here](http://neurotree.org/neurotree/tree.php?pid=936347&pnodecount=4&cnodecount=2&fontsize=1).
+
+<center>
+Email: <tt>X</tt> × <tt>Y</tt>, where <tt>X</tt> = {<tt>ddw4hp</tt>}, <tt>Y</tt> = {<tt>@virginia.edu</tt>}
+[ORCID](https://orcid.org/0009-0008-2208-4977) / [GitHub](https://github.com/k9chen) / [LinkedIn](https://www.linkedin.com/in/kelvin-chen-7254a2236/) / [Twitter](https://x.com/kcneurosci)
+</center>
 
 <hr>
