@@ -1,6 +1,6 @@
 ---
 layout: distill
-title: Ch2. Descartes' Last Words, Poignantly Expressed as a Cardioid flowers for al
+title: Ch2. Descartes' Last Words, Poignantly Expressed as a Cardioid
 description: The happy or perhaps sad love story of a beloved thinker from history.
 giscus_comments: true
 date: 2024-05-23
