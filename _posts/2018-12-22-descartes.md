@@ -1,6 +1,6 @@
 ---
 layout: distill
-title: Ch2. Descartes' Last Words, Beautifully Expressed as a Cardioid
+title: Ch2. Descartes' Last Words, Poignantly Expressed as a Cardioid flowers for al
 description: The happy or perhaps sad love story of a beloved thinker from history.
 giscus_comments: true
 date: 2024-05-23
@@ -58,7 +58,7 @@ _styles: >
 ---
 ## Star-Crossed Lovers
 
-Many know René Descartes for his intellectual pursuits, among which are his philosophical ideas regarding the mind, i.e. mind-body dualism, and co-pioneering the field of analytic geometry in the early to mid-17th century. Yet there is an unpopularized story about the romance shared between Descartes and Princess Christina, a member of the House of Vasa who would eventually become the Queen of Sweden. For context, Descartes was originally a Frenchman but sought refuge in Sweden in an attempt to escape persecution from the Louise royal family of the House of Bourbon. There, Descartes had no luck in finding a proper job due to his perceived status as a fugitive, but he continued to pursue his mathematical endeavors nevertheless. This thus serves as the premise of Descartes' poignant love story, a story that has manifested itself as one of Descartes' most prominent contributions to mathematics. Hence, the story unfolded in the following manner, with some minor details omitted for the sake of brevity:
+Many know René Descartes for his intellectual pursuits, among which are his philosophical ideas regarding the mind, i.e. mind-body dualism, and co-pioneering the field of analytic geometry in the early to mid-17th century. Yet there is an unpopularized story about the romance shared between Descartes and Princess Christina, a member of the House of Vasa who would eventually become the Queen of Sweden. For context, Descartes was originally a Frenchman but sought refuge in Sweden in an attempt to escape persecution from the Louise royal family of the House of Bourbon. There, Descartes had no luck in finding a proper job due to his perceived status as a fugitive, but he continued to pursue his mathematical endeavors nevertheless. This thus serves as the premise of Descartes' love story, a story that has manifested itself as a representation of one of Descartes' many prominent contributions to mathematics. Hence, the story unfolded in the following manner, with some minor details omitted for the sake of brevity:
 ### Act I
 On one afternoon, perhaps it was due to pure coincidence or fate, Descartes was sitting on the streets of Stockholm indulging in his analytical studies when a carriage appeared in front of him; inside was the distinguished, young Princess Christina of Sweden, who had an interest in mathematics and inquired Descartes about his work with great respect and admiration. In turn, Descartes, who was initially unaware of the girl that stood before him, took notice of the princess' potential for mathematics. The princess eventually departed as Descartes returned to his studies in the ensuing days.    
 ### Act II

@@ -17,6 +17,7 @@ nav_order:
 * Liu, C., 2016. *Death's End*. Tor Books.
 * Martine, A., 2019. *A Memory Called Empire*. Tor Books
 * Mitsuse, R., 2012. *Ten Billion Days and One Hundred Billion Nights*. Haikasoru.
+* Simmons, D., 1990. *Hyperion*. Spectra.
 * Wang, J., 2011. *Staying with Me*. Chongqing Press.
 * Zafón, C. R., 2005. *The Shadow of the Wind*. Penguin Books.
 * [...]
@@ -46,6 +47,7 @@ nav_order:
 * Harpman, J., 1997. *I Who Have Never Known Men*. Seven Stories Press.
 * Heinlein, R. A., 1966. *The Moon Is a Harsh Mistress*. G. P. Putnam's Sons.
 * Heller, J. 1961. *Catch-22*. Simon & Schuster.
+* Herbert, F. 1990. *Dune*. Ace.
 * Huxley, A., 1932. *Brave New World*. Chatto & Windus.
 * Ishiguro, K., 2021. *Klara and the Sun*. Faber and Faber.
 * Jackson, S., 1948. *The Lottery*. The New Yorker.
@@ -53,6 +55,7 @@ nav_order:
 * Kafka, F., 2009. *The Metamorphosis*. Simon & Schuster
 * Kafka, F., 1999. *The Trial*. Knopf Doubleday Publishing Group.
 * Kawamura, G., 2019. *If Cats Disappeared from the World*. Flatiron Books.
+* Keyes, D., 2005. *Flower for Algernon*. Mariner Books Classics.
 * Kim, C., 2019. *Sentinel*. Clarkesworld Magazine.
 * Le Guin, U. K., 1973. *The Ones Who Walk Away from Omelas*. New Dimensions 3.
 * Liu, C., 2020. *Supernova Era*. Tor Books.
