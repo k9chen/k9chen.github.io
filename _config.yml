@@ -3,9 +3,9 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: <tt>Kelvin</tt>
+first_name:
 middle_name:
-last_name: <tt>Chen</tt> /ˈkɛlvɪn ˈtʃɛn/
+last_name: /ˈkɛlvɪn ˈtʃɛn/
 email: ddw4hp@virginia.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Personal Website

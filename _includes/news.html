@@ -1,4 +1,4 @@
-          <div class="news">
+          <div class="News">
             {% if site.news != blank -%}
             {%- assign news_size = site.news | size -%}
             <div class="table-responsive" {% if include.limit and site.announcements.scrollable and news_size > 3 %}style="max-height: 60vw"{% endif %}>
@@ -9,14 +9,14 @@
               {% else %}
               {% assign news_limit = news_size %}
               {% endif %}
-              {% for item in news limit: news_limit %}
+              {% for item in News limit: news_limit %}
                 <tr>
                   <th scope="row">{{ item.date | date: "%b %-d, %Y" }}</th>
                   <td>
                     {% if item.inline -%}
                       {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
                     {%- else -%}
-                      <a class="news-title" href="{{ item.url | relative_url }}">{{ item.title }}</a>
+                      <a class="News-title" href="{{ item.url | relative_url }}">{{ item.title }}</a>
                     {%- endif %}
                   </td>
                 </tr>
