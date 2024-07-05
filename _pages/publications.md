@@ -2,7 +2,7 @@
 layout: page
 title: Misc.
 nav: true
-nav_order: 4
+nav_order: 5
 dropdown: true
 categories: [Editorials, Translations, ClustrMaps]
 children:

@@ -25,12 +25,4 @@ My primary research focuses on translating neuropathological biomarkers and mech
 
 The following info is not needed, but is included for signaling purposes: I have a special affection for sci-fi novels, political satire, deadpan humor, sundubu-jjigae, and the [Dinosaur Game](chrome://dino/), albeit I have a fervid disdain towards, inter alia, Celsius energy drinks. In case anyone is interested, my NeuroTree is viewable [here](http://neurotree.org/neurotree/tree.php?pid=936347&pnodecount=4&cnodecount=2&fontsize=1).
 
-<center>
-Email: <tt>X</tt> × <tt>Y</tt>, where <tt>X</tt> = {<tt>ddw4hp</tt>}, <tt>Y</tt> = {<tt>@virginia.edu</tt>}
-</center>
-<br>
-<center>
-<a href='https://orcid.org/0009-0008-2208-4977/'>ORCID</a> / <a href='https://github.com/k9chen/'>GitHub</a> / <a href='https://www.linkedin.com/in/kelvin-chen-7254a2236/'>LinkedIn</a> / <a href='https://x.com/kcneurosci/'>Twitter</a>
-</center>
-
 <hr>

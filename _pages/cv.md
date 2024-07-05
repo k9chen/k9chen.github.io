@@ -4,7 +4,7 @@ permalink: /cv/
 title: CV
 description: If the embedded PDF file does not appear, you can download it <a href='/assets/pdf/Curriculum Vitae.pdf'><u>here</u></a> for viewing.
 nav: true
-nav_order: 5
+nav_order: 4
 #cv_pdf: Curriculum Vitae.pdf
 ---
 <hr>
