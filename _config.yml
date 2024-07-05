@@ -3,9 +3,9 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Kelvin
+first_name: <tt>Kelvin</tt>
 middle_name:
-last_name: Chen /ˈkɛlvɪn ˈtʃɛn/
+last_name: <tt>Chen</tt> /ˈkɛlvɪn ˈtʃɛn/
 email: ddw4hp@virginia.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Personal Website
@@ -71,7 +71,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 
 github_username: k9chen # your GitHub user name
 gitlab_username: # your GitLab user name
-x_username: kcneurosci # your Twitter handle
+twitter_username: kcneurosci # your Twitter handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 linkedin_username: kelvin-chen-7254a2236 # your LinkedIn user name
 telegram_username: # your Telegram user name
@@ -103,8 +103,7 @@ facebook_id: # your facebook id
 youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 discord_id: # your discord id (18-digit unique numerical identifier)
 
-contact_note: >
-    <tt>Feel free to contact me via email for any inquiries.</tt>
+contact_note:
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
