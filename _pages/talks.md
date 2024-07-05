@@ -29,7 +29,7 @@ Numerical finite difference approximation of the Bloch-Torrey equation with a fl
 **Research Intern**, *Department of Chemistry & Biochemistry*\\
 Sept 2021 - May 2022. *Advisor: Peter Njoki, Ph.D.*\\
 Biochemical modeling of AuNP-mediated targeting of SARS-CoV-2 in a kinetic ODE system.
-
+<hr>
 <!-- _pages/talks.md -->
 <div class="publications">
 
