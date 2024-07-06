@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-The project [**Geometry-Informed Multi-Compartmental Diffusion MRI Modeling of Injured Peripheral Nerves**](https://k9chen.github.io/assets/pdf/08112023.pdf) was presented at the Barrow Neurological Institute Undergraduate Research Symposium. 
+Gave a poster presentation on [**Geometry-Informed Multi-Compartmental Diffusion MRI Modeling of Injured Peripheral Nerves**](https://k9chen.github.io/assets/pdf/08112023.pdf) at the Barrow Neurological Institute Undergraduate Research Symposium. 
