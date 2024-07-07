@@ -5,8 +5,6 @@ permalink: /
 #subtitle:
 header:
   image: assets/img/banner.jpg
-footer:
-  image: assets/img/xkcd.png
 # profile:
   # align: right
   # image: profilepic.jpg
