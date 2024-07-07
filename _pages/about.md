@@ -14,7 +14,7 @@ header:
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
-selected_papers: false # includes a list of papers marked as "selected={true}"
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 
 ---
@@ -29,7 +29,3 @@ Of secondary interest to my research is analyzing the [neuroethical implications
 The following info is not needed, but is included for signaling purposes: I have a special affection for sci-fi novels, political satire, deadpan humor, sundubu-jjigae, and the [Dinosaur Game](chrome://dino/), albeit I have a fervid disdain towards, inter alia, Celsius energy drinks.
 
 In case anyone is interested, my NeuroTree is viewable [here](http://neurotree.org/neurotree/tree.php?pid=936347&pnodecount=4&cnodecount=2&fontsize=1).
-
-<img src="assets/img/xkcd.png" alt="Subdirectory Image" width="100">
-
-<hr>
