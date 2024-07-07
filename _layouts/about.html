@@ -6,6 +6,9 @@ layout: default
 {%- include figure.html path=page.header.image alt="header image" width="100%" caption=page.header.caption -%}
 {% endif %}
 
+{% if page.footer.image %}
+{%- include figure.html path=page.footer.image alt="footer image" width="100%" caption=page.footer.caption -%}
+{% endif %}
 <!-- about.html -->
       <div class="post">
         <header class="post-header">
