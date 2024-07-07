@@ -29,4 +29,7 @@ Of secondary interest to my research is analyzing the [neuroethical implications
 The following info is not needed, but is included for signaling purposes: I have a special affection for sci-fi novels, political satire, deadpan humor, sundubu-jjigae, and the [Dinosaur Game](chrome://dino/), albeit I have a fervid disdain towards, inter alia, Celsius energy drinks.
 
 In case anyone is interested, my NeuroTree is viewable [here](http://neurotree.org/neurotree/tree.php?pid=936347&pnodecount=4&cnodecount=2&fontsize=1).
+
+<img src="assets/img/xkcd.png" alt="Subdirectory Image" width="100">
+
 <hr>
