@@ -3,14 +3,14 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Kelvin
+first_name:
 middle_name:
-last_name: Chen
+last_name: Kelvin Chen
 email: ddw4hp@virginia.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Personal Website
 footer_text: >
-  All Rights Reserved.
+  All rights reserved.
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
