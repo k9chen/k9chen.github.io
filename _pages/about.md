@@ -29,5 +29,5 @@ Of secondary interest to my research is analyzing the [neuroethical implications
 The following info is not needed, but is included for signaling purposes: I have a special affection for deadpan humor, political satire, sundubu-jjigae, and the [xkcd](https://xkcd.com/) webcomic, albeit I have a fervid disdain towards, inter alia, Celsius energy drinks. In case anyone is interested, my NeuroTree is viewable [here](http://neurotree.org/neurotree/tree.php?pid=936347&pnodecount=4&cnodecount=2&fontsize=1).
 
 <blockquote>
-"Every abstract picture of the world is as impossible as a blueprint of a storm." ― Tranströmer
+  <font size="4">"Every abstract picture of the world is as impossible as a blueprint of a storm." ― Tomas Tranströmer</font>
 </blockquote>
