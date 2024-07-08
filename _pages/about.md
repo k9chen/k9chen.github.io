@@ -4,7 +4,7 @@ title: About
 permalink: /
 #subtitle:
 header:
-  image: assets/img/cit.png
+  image: assets/img/banner.jpg
 # profile:
   # align: right
   # image: profilepic.jpg
