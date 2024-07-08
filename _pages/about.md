@@ -4,7 +4,7 @@ title: About
 permalink: /
 #subtitle:
 header:
-  image: assets/img/color.gif
+  image: assets/img/stick.gif
 # profile:
   # align: right
   # image: profilepic.jpg
