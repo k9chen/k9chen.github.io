@@ -28,7 +28,7 @@ Of secondary interest to my research is analyzing the neuroethical implications 
 
 The following info is not needed, but is included for signaling purposes: I have a special affection for deadpan humor, political satire, sundubu-jjigae, and the xkcd webcomic, albeit I have a fervid disdain towards, inter alia, matcha latte with a disproportionate amount of milk and the bipolar weather of Charlottesville.
 
-Feel free to contact me via email at <tt>[ddw4hp@virginia.edu](mailto:ddw4hp@virginia.edu)</tt> for any inquiries; unless I have an upcoming exam, I'll respond within 24 hours. In case anyone is interested, my NeuroTree is viewable [here](http://neurotree.org/neurotree/tree.php?pid=936347&pnodecount=4&cnodecount=2&fontsize=1).
+Feel free to contact me via email either at <tt>[ddw4hp@virginia.edu](mailto:ddw4hp@virginia.edu)</tt> or <tt>[kelvin.chen@barrowneuro.org](mailto:kelvin.chen@barrowneuro.org)</tt> for any inquiries regarding my research or anything in general. In case anyone is interested, my NeuroTree is viewable [here](http://neurotree.org/neurotree/tree.php?pid=936347&pnodecount=4&cnodecount=2&fontsize=1).
 
 <blockquote>
   <font size="3">"Every abstract picture of the world is as impossible as a blueprint of a storm." ― Tomas Tranströmer</font>
