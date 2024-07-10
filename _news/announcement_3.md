@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[UPCOMING] The project **Microstructural Analysis of Nervous Tissues by Imaging to Simulate Diffusion MRI Signals Following Peripheral Nerve Trauma** will be presented at the Barrow Neurological Institute Undergraduate Research Symposium.
+[UPCOMING] The project **Spherical Mean Diffusion Weighted Magnetic Resonance Signals Reveal Axonal Integrity Following Traumatic Peripheral Neuropathy** will be presented at the Barrow Neurological Institute Undergraduate Research Symposium.
