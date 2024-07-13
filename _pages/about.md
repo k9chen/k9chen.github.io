@@ -18,6 +18,6 @@ social: false # includes social icons at the bottom of the page
 ---
 I am a third-year at the [University of Virginia](https://www.virginia.edu/) pursuing a double major in neuroscience and chemistry with a minor in bioethics. Presently, I am advised by Dr. [Petr Tvrdik](https://med.virginia.edu/bims/faculty/?facbio=1&id=48788) in the Department of Neurosurgery and Neuroscience at [UVA School of Medicine](https://med.virginia.edu/), where I conduct research in microglial dynamics following focal cerebral ischemia in mouse models.
 
-My primary research focuses on translating neuropathological biomarkers and mechanisms of neurovascular diseases into novel diagnostic and therapeutic tools for clinical applications through integrating computational and experimental methods.
+My research focuses on translating neuropathological biomarkers and mechanisms of neurovascular diseases into novel diagnostic and therapeutic tools for clinical applications through integrating computational and experimental methods.
 
-The following info is not needed, but is included for signaling purposes: I have a special affection for deadpan humor and sundubu-jjigae, albeit I have a fervid disdain towards, inter alia, matcha latte with a disproportionate amount of milk and the bipolar weather of Charlottesville.
+Email: ddw4hp [at] virginia [dot] edu 
