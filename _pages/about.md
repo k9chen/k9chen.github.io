@@ -14,7 +14,7 @@ header:
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 
 ---
@@ -31,5 +31,5 @@ The following info is not needed, but is included for signaling purposes: I have
 Feel free to contact me via email either at <tt>[ddw4hp@virginia.edu](mailto:ddw4hp@virginia.edu)</tt> or <tt>[kelvin.chen@barrowneuro.org](mailto:kelvin.chen@barrowneuro.org)</tt> for any inquiries regarding my research or anything in general; I will be more than happy for a discussion. In case anyone is interested, my NeuroTree is viewable [here](http://neurotree.org/neurotree/tree.php?pid=936347&pnodecount=4&cnodecount=2&fontsize=1).
 
 <blockquote>
-  <font size="3">"Every abstract picture of the world is as impossible as a blueprint of a storm." ― Tomas Tranströmer</font>
+  <font size="3">"It is strange to see how the populace, which nourishes its imagination with tales of witches or saints, mysterious events and extraordinary occurrences, disdains the world around it as commonplace, monotonous and prosaic, without suspecting that at bottom it is all secret, mystery, and marvel." ― Santiago Ramón y Cajal</font>
 </blockquote>
