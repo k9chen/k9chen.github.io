@@ -21,3 +21,7 @@ I am a third-year at the [University of Virginia](https://www.virginia.edu/) pur
 My research focuses on translating neuropathological biomarkers and mechanisms of neurovascular diseases (e.g., stroke, neuropathy, cavernoma) into novel diagnostic and therapeutic tools for clinical applications through integrating computational and experimental methods.
 
 For any inquiries, please direct emails to: ddw4hp [at] virginia [dot] edu
+
+<blockquote>
+  <font size="3">"Every abstract picture of the world is as impossible as a blueprint of a storm." ― Tomas Tranströmer</font>
+</blockquote>
