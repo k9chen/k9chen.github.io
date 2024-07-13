@@ -3,14 +3,12 @@ layout: about
 title: About
 permalink: /
 #subtitle:
-header:
-  image: assets/img/fight.gif
-# profile:
-  # align: right
-  # image: profilepic.jpg
-  # image_circular: false # crops the image to make it circular
-  # address: >
-    # <p>Figure 1. A sunny day in Charlottesville, VA.</p>
+profile:
+  align: right
+  image: heno.png
+  image_circular: false # crops the image to make it circular
+  address: >
+    # <p>Figure 1.</p>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
