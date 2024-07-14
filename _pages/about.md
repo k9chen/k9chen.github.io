@@ -19,6 +19,6 @@ I am a third-year at the [University of Virginia](https://www.virginia.edu/) pur
 
 My research focuses on translating neuropathological biomarkers and mechanisms of neurovascular diseases (e.g., stroke, neuropathy, cavernoma) into novel diagnostic and therapeutic tools for clinical applications via integrating computational and experimental methods.
 
-For any inquiries, please direct emails to: <tt>ddw4hp [at] virginia [dot] edu</tt>
+<a href="mailto:myemail@ignoreme-example.com">myemail@<span style="display:none;">ignoreme-</span>example.com
 
 <hr>
