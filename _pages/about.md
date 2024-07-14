@@ -7,8 +7,7 @@ profile:
   align: right
   image: fun.gif
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>Figure 1.</p>
+  address: 
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
