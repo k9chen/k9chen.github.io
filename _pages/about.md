@@ -5,9 +5,9 @@ permalink: /
 #subtitle:
 profile:
   align: right
-  image: fun.gif
+  image: func.gif
   image_circular: false # crops the image to make it circular
-  address: 
+  address:
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -19,6 +19,6 @@ I am a third-year at the [University of Virginia](https://www.virginia.edu/) pur
 
 My research focuses on translating neuropathological biomarkers and mechanisms of neurovascular diseases (e.g., stroke, neuropathy, cavernoma) into novel diagnostic and therapeutic tools for clinical applications via integrating computational and experimental methods.
 
-For any inquiries, please direct emails to: ddw4hp [at] virginia [dot] edu
+For any inquiries, please direct emails to: <tt>ddw4hp [at] virginia [dot] edu</tt>
 
 <hr>
