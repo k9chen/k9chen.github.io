@@ -26,13 +26,10 @@ layout: default
               {% else %}
                 {%- assign profile_image_class = "img-fluid z-depth-0" -%}
               {% endif %}
-              <img src="{{ profile_image_path }}" class="{{ profile_image_class }}" style="height:500px;">
-              {%- endif %}
 
-              {% include figure.html
-              path=profile_image_path
-              class=profile_image_class
-              alt=page.profile.image -%}
+
+              <img src="{{ profile_image_path }}" class="{{ profile_image_class }}" style="height:500px;" alt="{{ page.profile.image }}">
+
             {% endif -%}
             {%- if page.profile.address %}
             <div class="address">
