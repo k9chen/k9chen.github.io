@@ -5,7 +5,7 @@
 title: blank # the website title (if blank, full name will be used instead)
 first_name:
 middle_name:
-last_name: Kelvin Chen
+last_name: Kelvin Chen <p style="font-size:10px;">, not to be confused with the physicist Lord Kelvin.</p>
 email: ddw4hp@virginia.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Personal Website
