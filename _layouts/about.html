@@ -47,6 +47,7 @@ layout: default
           <!-- News -->
           {% if page.news and site.announcements.enabled -%}
             <h2><a href="{{ '/changelog/' | relative_url }}" style="color: inherit;">Changelog</a></h2>
+            <br>
             {%- include news.html limit=true %}
           {%- endif %}
 
@@ -76,10 +77,6 @@ layout: default
 
             </div>
           {%- endif %}
-          <br>
-          <center>
-          <img src="assets\img\ball.jpg" alt="Descriptive Text" width="100%">
-          </center>
         </article>
 
 </div>

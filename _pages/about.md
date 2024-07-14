@@ -5,10 +5,10 @@ permalink: /
 #subtitle:
 profile:
   align: right
-  image: heno.png
+  image: fun.gif
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Figure 1. Henohenomoheji.</p>
+    <p>Figure 1.</p>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
