@@ -89,8 +89,8 @@ scopus_id: # your profile on Scopus
 blogger_url: # your blogger URL
 work_url: # work page URL
 keybase_username: # your keybase user name
-wikidata_id: # your wikidata id
-wikipedia_id: User:K9chen # your wikipedia id (Case sensitive)
+wikidata_id: User:K9chen # your wikidata id
+wikipedia_id: # your wikipedia id (Case sensitive)
 dblp_url: # your DBLP profile url
 stackoverflow_id: # your stackoverflow id
 kaggle_id: # your kaggle id
