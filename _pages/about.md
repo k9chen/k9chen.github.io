@@ -22,3 +22,9 @@ My research focuses on translating neuropathological biomarkers and mechanisms o
 Email is the best way of contact: <a href='mailto:ddw4hp@virginia.edu'><tt>ddw4hp [at] virginia [dot] edu</tt></a>
 
 <hr>
+
+<blockquote>
+    <font size="3"><i>"Who can say if the thoughts you have in your mind as you read these words are the same thoughts I had in my mind as I typed them? We are different, you and I, and the qualia of our consciousnesses are as divergent as two stars at the ends of the universe."</i> ― Ken Liu</font>
+</blockquote>
+
+<hr>
