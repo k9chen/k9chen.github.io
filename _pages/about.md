@@ -24,7 +24,7 @@ Email is the best way of contact: <a href='mailto:ddw4hp@virginia.edu'><tt>ddw4h
 <hr>
 
 <blockquote>
-    <font size="3"><i>"Who can say if the thoughts you have in your mind as you read these words are the same thoughts I had in my mind as I typed them? We are different, you and I, and the qualia of our consciousnesses are as divergent as two stars at the ends of the universe."</i> ― Ken Liu</font>
+    <font size="3"><i>"We’d get sick on too many cookies, but ever so much sicker on no cookies at all."</i> ― Sinclair Lewis</font>
 </blockquote>
 
 <hr>
