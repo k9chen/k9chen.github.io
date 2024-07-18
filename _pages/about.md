@@ -22,9 +22,3 @@ My research focuses on translating neuropathological biomarkers and mechanisms o
 Email is the best way of contact: <a href='mailto:ddw4hp@virginia.edu'><tt>ddw4hp [at] virginia [dot] edu</tt></a>
 
 <hr>
-
-<blockquote>
-    <font size="3"><i>"We’d get sick on too many cookies, but ever so much sicker on no cookies at all."</i> ― Sinclair Lewis</font>
-</blockquote>
-
-<hr>
