@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Interned at the Neuroimaging Innovation Center at Barrow Neurological Institute, conducting research on the NIH-funded study **Diffusion MRI Biomarkers of Peripheral Nerve Trauma**.
+<p style="text-align: justify;">Interned at the Neuroimaging Innovation Center at Barrow Neurological Institute, conducting research on the NIH-funded study <p style="font-weight: bold;">Diffusion MRI Biomarkers of Peripheral Nerve Trauma</p>.</p>
