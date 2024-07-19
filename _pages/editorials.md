@@ -2,7 +2,7 @@
 layout: page
 permalink: /misc/editorials/
 title: Editorials
-description: Critiques on the neuroethics of applying evolving neurotechnology in research and the clinical setting with a focus on their theoretical impact on personal identity, moral thoughts, consciousness, autonomy, etc.
+description: Ethical critiques on the theoretical impact of applying evolving neurotechnology in research and clinical settings.
 nav: false
 nav_order:
 
