@@ -19,12 +19,12 @@ social: false # includes social icons at the bottom of the page
 
 <p style="text-align: justify;">My research focuses on translating neuropathological biomarkers and mechanisms of neurovascular diseases (e.g., stroke, neuropathy, cavernoma) into novel diagnostic and therapeutic tools for clinical applications via integrating computational and experimental methods.</p>
 
-<p style="text-align: justify;">Email is the best means of contact: <a href='mailto:ddw4hp@virginia.edu'><tt>ddw4hp [at] virginia [dot] edu</tt></a></p>
+<p style="text-align: justify;">Email is the best means of contact: <a href='mailto:ddw4hp@virginia.edu'><tt>ddw4hp[at]virginia[dot]edu</tt></a></p>
 
 <hr>
 
 <blockquote>
-    <font size="3"><i>"We’d get sick on too many cookies, but ever so much sicker on no cookies at all."</i> ― Sinclair Lewis</font>
+    <font size="3"><i>"Il corpo faccia quello che vuole, io sono la mente."</i> ― Rita Levi-Montalcini</font>
 </blockquote>
 
 <hr>
