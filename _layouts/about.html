@@ -45,7 +45,7 @@ layout: default
 
           <!-- News -->
           {% if page.news and site.announcements.enabled -%}
-            <h2><a href="{{ '/changelog/' | relative_url }}" style="color: inherit;">Changelog</a></h2>
+            <h3><a href="{{ '/changelog/' | relative_url }}" style="color: inherit;">Changelog</a></h3>
             {%- include news.html limit=true %}
           {%- endif %}
 
@@ -76,25 +76,25 @@ layout: default
             </div>
           {%- endif %}
           <br>
-          <h2>  Selected Projects</h2>
+          <h3><a href='https://k9chen.github.io/research/'>Selected Projects</a></h3>
 
 
-<table cellpadding="8" width="100%">
-          <tr>
-<td width="10%">
-<img src="/assets/pubimg/diffusion.png" height="135px" width="210px">
-</td>
+          <table cellpadding="8" width="100%" style="border-collapse: collapse; border: none;">
+            <tr>
+              <td width="10%" style="border: none;">
+                <img src="/assets/pubimg/diffusion.png" height="125px" width="200px">
+              </td>
 
-<td width="50%">
-<h5><a href="https://k9chen.github.io/assets/pdf/08112023.pdf"><b>Geometry-Informed Multi-Compartmental Diffusion MRI Modeling of Injured Peripheral Nerves
-</b></a></h5>
-Barrow Neurological Institute Undergraduate Research Symposium, Phoenix, AZ<br>
-</td>
+              <td width="50%" style="border: none;">
+                <h5><a href="https://k9chen.github.io/assets/pdf/08112023.pdf"><b>Geometry-Informed Multi-Compartmental Diffusion MRI Modeling of Injured Peripheral Nerves</b></a></h5>
+                Barrow Neurological Institute Undergraduate Research Symposium, Phoenix, AZ<br>
+              </td>
 
-<td width="10%"> Aug 2023
-</td>
-</tr>
-</table>
+              <td width="10%" style="border: none;">
+                Aug 2023
+              </td>
+            </tr>
+          </table>
         </article>
 
 </div>
