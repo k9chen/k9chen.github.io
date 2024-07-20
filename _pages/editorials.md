@@ -2,7 +2,7 @@
 layout: page
 permalink: /misc/editorials/
 title: Editorials
-description: Ethical critiques on the theoretical impact of applying evolving neurotechnology in research and clinical settings.
+description: Ethical critiques on the theoretical impact of evolving neurotechnology in research and clinical settings.
 nav: false
 nav_order:
 
