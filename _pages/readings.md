@@ -13,7 +13,8 @@ nav_order:
 * Bulgakov, M., 2001. *The Master and Margarita*. Penguin Classics.
 * Butler, O. E., 1979. *Kindred*. Doubleday.
 * Choi, I., 2014. *The Square*. Dalkey Archive Press.
-* El-Mohtar, A., & Gladstone, M., 2019. *This Is How You Lose the Time War*. Simon & Schuster.
+* El-Mohtar, A., & Gladstone, M., 2020. *This Is How You Lose the Time War*. Saga Press.
+* Jemisin, N. K., 2010. *The Hundred Thousand Kingdoms*. Orbit Books.
 * Liu, C., 2016. *Death's End*. Tor Books.
 * Martine, A., 2019. *A Memory Called Empire*. Tor Books
 * Mitsuse, R., 2012. *Ten Billion Days and One Hundred Billion Nights*. Haikasoru.
@@ -27,6 +28,7 @@ nav_order:
 * Tchaikovsky, A., 2015. *Children of Time*. Tor Books.
 
 ## 20XX -- 2023
+* Adams, D. 1995. *The Hitchhiker's Guide to the Galaxy*. Del Rey.
 * Asimov, I., 1942. *Runaround*. Astounding Science Fiction.
 * Borges, J. L., 1982. *Tlön, Uqbar, Orbis Tertius*. Porcupine's Quill.
 * Camus, A., 1988. *The Stranger*. Alfred A. Knopf, Inc.
@@ -52,7 +54,7 @@ nav_order:
 * Ishiguro, K., 2021. *Klara and the Sun*. Faber and Faber.
 * Jackson, S., 1948. *The Lottery*. The New Yorker.
 * Jeong, S., 2019. *The Flowering* Clarkesworld Magazine.
-* Kafka, F., 2009. *The Metamorphosis*. Simon & Schuster
+* Kafka, F., 2009. *The Metamorphosis*. Classix Press.
 * Kafka, F., 1999. *The Trial*. Knopf Doubleday Publishing Group.
 * Kawamura, G., 2019. *If Cats Disappeared from the World*. Flatiron Books.
 * Keyes, D., 2005. *Flower for Algernon*. Mariner Books Classics.
@@ -71,13 +73,14 @@ nav_order:
 * Murakami, H., 2000. *Norwegian Wood*. Harvill Press.
 * Ogawa, Y., 2019. *The Memory Police*. Pantheon Books.
 * Orwell, G., 1949. *Nineteen Eighty-Four*. Secker & Warburg.
-* Sagan, C., 1985. *Contact*. Simon and Schuster.
+* Sagan, C., 2019. *Contact*. Gallery Books
 * Sartre J., 2013. *Nausea*. New Directions.
-* Shelly, M., 2004. *Frankenstein*. Simon & Schuster.
+* Shelly, M., 2004. *Frankenstein; or, The Modern Prometheus*. Wisehouse Classics.
 * Stoker, B., 2003. *Dracula*. Simon & Schuster.
 * Sturgeon, T., 1953. *More Than Human*. Farrar, Straus & Young.
 * Süskind, P., 1986. *Perfume: The Story of a Murderer*. Knopf Doubleday Publishing Group.
 * Torishima, D., 2018. *Sisyphean*. Haikasoru.
+* Vonnegut, K. 1998. *Cat's Cradle*. Dell Publishing.
 * Vonnegut, K. 1962. *Harrison Bergeron*. Mercury Press.
 * Wang, J., 2016. *Pathological* Amazon Crossing.
 * Weir, A., 2021. *Project Hail Mary*. Ballantine Books.
