@@ -11,9 +11,7 @@ children:
     - title: divider
     - title: Translations
       permalink: misc/translations/
-    - title: divider
-    - title: Timeline
-      permalink: misc/timeline/
+
 
 
 
