@@ -15,7 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 
 ---
-<p style="text-align: justify;">I am a third-year at the <a href='https://www.virginia.edu/'>University of Virginia</a> pursuing a double major in neuroscience and chemistry with a minor in bioethics. I am respectively advised by Drs. <a href='https://med.virginia.edu/bims/faculty/?facbio=1&id=48788'>Petr Tvrdik</a> and <a href='https://www.barrowneuro.org/person/richard-dortch-phd/'>Richard Dortch</a> in the Departments of Neurosurgery and Translational Neuroscience at <a href='https://med.virginia.edu/'>UVA School of Medicine</a> and <a href='https://www.barrowneuro.org/'>Barrow Neurological Institute</a>, where I conduct disease-oriented preclinical research.</p>
+<p style="text-align: justify;">I am a third-year at <a href='https://www.virginia.edu/'>UVA</a> pursuing a double major in neuroscience and chemistry with a minor in bioethics. I am respectively advised by Drs. <a href='https://med.virginia.edu/bims/faculty/?facbio=1&id=48788'>Petr Tvrdik</a> and <a href='https://www.barrowneuro.org/person/richard-dortch-phd/'>Richard Dortch</a> in the Departments of Neurosurgery and Translational Neuroscience at <a href='https://med.virginia.edu/'>UVA School of Medicine</a> and <a href='https://www.barrowneuro.org/'>Barrow Neurological Institute</a>, where I conduct disease-oriented preclinical research.</p>
 
 <p style="text-align: justify;">My main research focuses on translating pathophysiological biomarkers and mechanisms of neurovascular diseases into novel diagnostic and therapeutic tools for clinical applications via the integration of computational and experimental methods.</p>
 
