@@ -3,6 +3,8 @@ layout: about
 title: About
 permalink: /
 #subtitle:
+header:
+  image: assets/img/color.gif
 profile:
   align: right
   image: func.gif
