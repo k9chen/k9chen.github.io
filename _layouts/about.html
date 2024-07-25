@@ -9,10 +9,14 @@ layout: default
 <!-- about.html -->
       <div class="post">
         <header class="post-header">
-          <h1 class="post-title">
-            <center>
-           {% if site.title == "blank" -%}<span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }} {{ site.last_name }}{%- else -%}{{ site.title }}{%- endif %}; or, Kaiwen
-           </center>
+          <h1 class="post-title" style="text-align: center;">
+            {% if site.title == "blank" -%}
+              <span class="font-weight-bold" style="text-decoration: underline;">{{ site.first_name }}</span>
+              {{ site.middle_name }} {{ site.last_name }}
+            {%- else -%}
+              <span style="text-decoration: underline;">{{ site.title }}</span>
+            {%- endif %}
+            ; or, Kaiwen
           </h1>
           <p class="desc">{{ page.subtitle }}</p>
         </header>
@@ -131,7 +135,4 @@ layout: default
               In my spare time which is virtually non-existent, I am an avid reader of science fiction and magical realism and occasionally I will step my foot into the waters of theoretical physics and philosophy (albeit despite my best efforts, I abhor any readings that resmeble a Hegelian or Heideggerian text). If you are interested in reading something that will make you cry, I recommend reading this award-winning <a href='https://static1.squarespace.com/static/5838a24729687f08e0321a15/t/5bf2bdfa562fa782871c6252/1542635003373/The-Paper-Menagerie+by+Ken+Liu.pdf'>short story</a> about origami animals by Ken Liu or perhpaps this <a href='https://arxiv.org/pdf/2205.14808'>912-page mathematical proof</a> of the black hole stability conjecture by Giorgi et al.
           </div>
         </article>
-        <br>
-        <img src="assets/img/pix.png" alt="Description of the image" style="width: 100%;">
-
 </div>
