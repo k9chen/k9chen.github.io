@@ -9,17 +9,17 @@ layout: default
 <!-- about.html -->
       <div class="post">
         <header class="post-header">
-          <h1 class="post-title" style="font-size: smaller;">
+          <h1 class="post-title font-medium"> <!-- Adjust to font-small, font-medium, or font-large -->
             <center>
               {% if site.title == "blank" -%}
-                <span class="font-weight-bold" style="font-size: smaller;">{{ site.first_name }}</span>
+                <span class="font-weight-bold font-medium">{{ site.first_name }}</span> <!-- Adjust to font-small, font-medium, or font-large -->
                 {{ site.middle_name }} {{ site.last_name }}
               {%- else -%}
-                <span style="font-size: smaller;">{{ site.title }}</span>
+                <span class="font-medium">{{ site.title }}</span> <!-- Adjust to font-small, font-medium, or font-large -->
               {%- endif %}; or, Kaiwen
             </center>
           </h1>
-          <p class="desc" style="font-size: smaller;">{{ page.subtitle }}</p>
+          <p class="desc font-medium">{{ page.subtitle }}</p> <!-- Adjust to font-small, font-medium, or font-large -->
         </header>
 
         <article>
