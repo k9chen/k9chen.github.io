@@ -12,15 +12,14 @@ layout: default
           <h1 class="post-title">
             <center>
               {% if site.title == "blank" -%}
-                <span class="font-weight-bold" style="font-size: 9px; color: black;">{{ site.first_name }}</span>
+                <span class="font-weight-bold" style="font-size: 1em;">{{ site.first_name }}</span> 
                 {{ site.middle_name }} {{ site.last_name }}
               {%- else -%}
-                <span style="font-size: 9px; color: black;">{{ site.title }}</span>
-              {%- endif %}
-              ; or, Kaiwen
+                <span style="font-size: 1em;">{{ site.title }}</span>
+              {%- endif %}; or, Kaiwen
             </center>
           </h1>
-          <p class="desc">{{ page.subtitle }}</p>
+          <p class="desc" style="font-size: 1em;">{{ page.subtitle }}</p>
         </header>
 
         <article>
