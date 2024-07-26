@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-<p style="text-align: justify;">The 21st annual workshop on FLIM & FRET Microscopy and Label-Free NAD(P)H/FAD Metabolic Imaging was successfully concluded at the UVA W. M. Keck Center for Cellular Imaging in Charlottesville, Virginia.</p>
+<p style="text-align: justify;">The 21st annual workshop on <i>FLIM & FRET Microscopy and Label-Free NAD(P)H/FAD Metabolic Imaging</i> was successfully concluded at the UVA W. M. Keck Center for Cellular Imaging in Charlottesville, Virginia.</p>
