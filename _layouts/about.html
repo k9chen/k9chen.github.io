@@ -46,8 +46,8 @@ layout: default
 
           <!-- News -->
           {% if page.news and site.announcements.enabled -%}
-            <h3><a href="{{ '/changelog/' | relative_url }}" style="color: inherit;">Changelog</a></h3>
-            {%- include news.html limit=true %}
+          <h3><a href="{{ '/changelog/' | relative_url }}" style="color: inherit;"><tt style="color: red;">self</tt>.Changelog</a></h3>
+          {%- include news.html limit=true %}
           {%- endif %}
 
           <!-- Latest posts -->
