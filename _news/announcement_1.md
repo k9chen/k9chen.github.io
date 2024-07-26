@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-<p style="text-align: justify;">Gave a poster presentation on <i>Geometry-Informed Multi-Compartmental Diffusion MRI Modeling of Injured Peripheral Nerves</i> at the Barrow Neurological Institute Undergraduate Research Symposium in Phoenix, Arizona.</p>
+<p style="text-align: justify;">Gave a poster presentation on <i>Geometry-Informed Multi-Compartmental Diffusion MRI Modeling of Injured Peripheral Nerves</i> at the Barrow Neurological Institute Undergraduate Research Symposium in Phoenix, AZ.</p>
