@@ -5,6 +5,6 @@ inline: true
 related_posts: false
 ---
 
-<p style="text-align: justify;">[UPCOMING] [My postdoctoral mentor] gave a poster presentation on our work <i>Validation of Multi-Compartmental Diffu-
+<p style="text-align: justify;">[My postdoctoral mentor] gave a poster presentation on our work <i>Validation of Multi-Compartmental Diffu-
 sion MRI Models for Peripheral Nerve Trauma</i> at the Gordon Research Conference on In Vivo
 Magnetic Resonance in Andover, New Hampshire.</p>
