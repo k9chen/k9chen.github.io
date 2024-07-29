@@ -5,7 +5,7 @@ permalink: /
 #subtitle:
 profile:
   align: right
-  image: func.gif
+  image: ducky.gif
   image_circular: false # crops the image to make it circular
   address: >
     <p> <tt>Kelvin Chen (陈凯文)</tt> </p>
