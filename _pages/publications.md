@@ -11,6 +11,11 @@ children:
     - title: divider
     - title: Translations
       permalink: misc/translations/
+    - title: Links
+      permalink: misc/links/
+    - title: divider
+
+    
 
 
 
