@@ -24,6 +24,7 @@ nav_order:
 * [Sandboxels](https://sandboxels.r74n.com/)
 * [Scale of the Universe](https://scaleofuniverse.com/en)
 * [Space Elevator](https://neal.fun/space-elevator/)
+* [Timeline of the Far Future](https://en.m.wikipedia.org/wiki/Timeline_of_the_far_future)
 * [Yann LeCun's Fun Stuff Page](https://yann.lecun.com/ex/fun/index.html)
 * [Zoom Quilt](https://zoomquilt.org/)
 * [...]
