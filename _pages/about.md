@@ -32,9 +32,24 @@ Here are some current research projects that I am working on:
 
 <b><i>1.</i></b> Phenotypic and spatial heterogeneity of myeloid cell subtypes in the recombinase-mediated <i>RC::RLTG</i> reporter mouse following transient middle cerebral artery occlusion.
 
+<br>
+
+<b>Collaborator(s):</b> Khadijeh Sharifi, Ph.D., Petr Tvrdik, Ph.D. (UVA School of Medicine)
+
 <br><br>
 
-<b><i>2.</i></b> Rician distributed multi-compartmental diffusion magnetic resonance signal simulation via a Monte Carlo algorithm to assay pathologically realistic tissue microstructure.
+<b><i>2.</i></b> Rician distributed multi-compartmental diffusion MR signal simulation via Monte Carlo to assay pathologically realistic tissue microstructure in trauma-induced peripheral nerves.
+
+<br>
+<b>Collaborator(s):</b> Thammathida Ketsiri, Ph.D., Richard Dortch, Ph.D. (Barrow Neurological Institute)
+
+<br><br>
+
+<b><i>3.</i></b> Biomedical spine image segmentation using AI/ML methods.
+
+<br>
+<b>Collaborator(s):</b> Daniel Zhu (Brown University)
+
 </div>
 </details>
 
