@@ -23,8 +23,9 @@ social: false # includes social icons at the bottom of the page
 [comment]: <> (<p style="text-align: justify;">Please direct emails to <a href='mailto:ddw4hp@virginia.edu'><tt>ddw4hp [AT] virginia [DOT] edu</tt></a>.</p>)
 
 <details>
-<summary> <b>Work in progress...</b></summary>
+<summary><b>Work in progress...</b></summary>
 <br>
+<div style="text-align: justify;">
 Here are some current research projects that I am working on:
 
 <br><br>
@@ -34,7 +35,7 @@ Here are some current research projects that I am working on:
 <br><br>
 
 <b><i>2.</i></b> Rician distributed multi-compartmental diffusion magnetic resonance signal simulation via a Monte Carlo algorithm to assay pathologically realistic tissue microstructure.
-
+</div>
 </details>
 
 <hr>
