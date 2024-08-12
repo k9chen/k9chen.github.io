@@ -42,7 +42,7 @@ Here are some current research projects that I am working on:
 
 
 
-<b><i>3.</i></b> Training U-Net-based ML models for biomedical image segmentation of spinal pathology.
+<b><i>3.</i></b> Training U-Net-based AI/ML models for biomedical image segmentation of spinal pathology.
 
 <p style="margin-top: 7px;"><b>Collaborator(s) @ Brown:</b> Daniel Zhu</p>
 
