@@ -20,7 +20,7 @@ social: false # includes social icons at the bottom of the page
 
 <p style="text-align: justify;">My main research focuses on translating pathophysiological biomarkers and mechanisms of neurovascular diseases into novel diagnostic and therapeutic tools for clinical applications via the integration of computational and experimental methods.</p>
 
-<p style="text-align: justify;">Please direct emails to <a href='mailto:ddw4hp@virginia.edu'><tt>ddw4hp [AT] virginia [DOT] edu</tt></a>.</p>
+[comment]: <> (<p style="text-align: justify;">Please direct emails to <a href='mailto:ddw4hp@virginia.edu'><tt>ddw4hp [AT] virginia [DOT] edu</tt></a>.</p>)
 
 <details>
 <summary> <b>Research Summary</b></summary>
