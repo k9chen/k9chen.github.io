@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-<p style="text-align: justify;">[<b>UPCOMING</b>] The project <i>Spherical Mean Diffusion-Weighted MRI Reveals Peripheral Axonal Pathology Following Trauma</i> will be presented at the Barrow Neurological Institute Undergraduate Research Symposium.</p>
+<p style="text-align: justify;">Gave a poster presentation on <i>Spherical Mean Diffusion-Weighted MRI Reveals Peripheral Axonal Pathology Following Trauma</i> at the Barrow Neurological Institute Undergraduate Research Symposium in Phoenix, AZ.</p>
