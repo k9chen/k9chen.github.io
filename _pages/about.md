@@ -33,7 +33,6 @@ Here are some current research projects that I am working on:
 <b><i>1.</i></b> Phenotypic and spatial heterogeneity of myeloid cell subtypes in the recombinase-mediated <i>RC::RLTG</i> reporter mouse following transient middle cerebral artery occlusion.
 
 <br>
-
 <b>Collaborator(s):</b> Khadijeh Sharifi, Ph.D., Petr Tvrdik, Ph.D. (UVA School of Medicine)
 
 <br><br>
