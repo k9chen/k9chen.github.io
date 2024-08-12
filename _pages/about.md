@@ -32,13 +32,13 @@ Here are some current research projects that I am working on:
 
 <b><i>1.</i></b> Mapping phenotypic and spatial heterogeneity of myeloid cell subtypes in the recombinase-mediated <i>RC::RLTG</i> reporter mouse following transient middle cerebral artery occlusion.
 
-<p style="margin-top: 7px;"><b>Collaborator(s) @ UVA SOM:</b> <a href='https://www.researchgate.net/profile/Khadijeh-Sharifi'>Khadijeh Sharifi</a>, Ph.D., <a href='https://www.researchgate.net/profile/Petr-Tvrdik'>Petr Tvrdik</a>, Ph.D.</p>
+<p style="margin-top: 7px;"><b>Collaborator(s) @ UVA SOM:</b> <a href='https://www.researchgate.net/profile/Khadijeh-Sharifi'>Khadijeh Sharifi, Ph.D.</a>, <a href='https://www.researchgate.net/profile/Petr-Tvrdik'>Petr Tvrdik, Ph.D.</a></p>
 
 
 
 <b><i>2.</i></b> Developing a Rician distributed multi-compartmental DWI-MRI signal simulation via Monte Carlo to assay pathologically realistic tissue microstructure in trauma-induced peripheral nerves.
 
-<p style="margin-top: 7px;"><b>Collaborator(s) @ Barrow:</b> <a href='https://scholar.google.com/citations?user=4HPMQf8AAAAJ&hl=en'>Thammathida Ketsiri</a>, Ph.D., <a href='https://scholar.google.com/citations?user=0Nxp2WYAAAAJ&hl=en'>Richard Dortch</a>, Ph.D.</p>
+<p style="margin-top: 7px;"><b>Collaborator(s) @ Barrow:</b> <a href='https://scholar.google.com/citations?user=4HPMQf8AAAAJ&hl=en'>Thammathida Ketsiri, Ph.D.</a>, <a href='https://scholar.google.com/citations?user=0Nxp2WYAAAAJ&hl=en'>Richard Dortch, Ph.D.</a></p>
 
 
 
@@ -52,7 +52,7 @@ Here are some current research projects that I am working on:
 <hr>
 
 <blockquote style="text-align: justify;">
-    <font size="3"><i>"It is strange to see how the populace, which nourishes its imagination with tales of witches or saints, mysterious events and extraordinary occurrences, disdains the world around it as commonplace, monotonous and prosaic, without suspecting that at bottom it is all secret, mystery, and marvel."</i> ― Santiago Ramón y Cajal, <i>Recollections of My Life</i></font>
+    <font size="3"><i>"It is strange to see how the populace, which nourishes its imagination with tales of witches or saints, mysterious events and extraordinary occurrences, disdains the world around it as commonplace, monotonous and prosaic, without suspecting that at bottom it is all secret, mystery, and marvel."</i> ― Santiago Ramón y Cajal, <i><a href='https://direct.mit.edu/books/book/2088/Recollections-of-My-Life'>Recollections of My Life</a></i></font>
 </blockquote>
 
 <hr>
