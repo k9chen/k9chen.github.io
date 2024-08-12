@@ -34,13 +34,13 @@ Here are some current research projects that I am working on:
 
 <p style="margin-top: 10px;"><b>Collaborator(s) @ UVA SOM:</b> Khadijeh Sharifi, Ph.D., Petr Tvrdik, Ph.D.</p>
 
-<br>
+
 
 <b><i>2.</i></b> Implementing a Rician distributed multi-compartmental diffusion MR signal simulation via Monte Carlo to assay pathologically realistic tissue microstructure in trauma-induced peripheral nerves.
 
 <p style="margin-top: 10px;"><b>Collaborator(s) @ Barrow:</b> Thammathida Ketsiri, Ph.D., Richard Dortch, Ph.D.</p>
 
-<br>
+
 
 <b><i>3.</i></b> Training machine learning models for biomedical spine image segmentation.
 
