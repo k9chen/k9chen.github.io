@@ -32,19 +32,19 @@ Here are some current research projects that I am working on:
 
 <b><i>1.</i></b> Mapping phenotypic and spatial heterogeneity of myeloid cell subtypes in the recombinase-mediated <i>RC::RLTG</i> reporter mouse following transient middle cerebral artery occlusion.
 
-<p style="margin-top: 7px;"><b>Collaborator(s) @ UVA SOM:</b> <a href='https://www.researchgate.net/profile/Khadijeh-Sharifi'>Khadijeh Sharifi, Ph.D.</a>, <a href='https://www.researchgate.net/profile/Petr-Tvrdik'>Petr Tvrdik, Ph.D.</a></p>
+<p style="margin-top: 7px;"><b>Collaborator(s) @ UVA School of Medicine:</b> <a href='https://www.researchgate.net/profile/Khadijeh-Sharifi'>Khadijeh Sharifi</a>, <a href='https://www.researchgate.net/profile/Petr-Tvrdik'>Petr Tvrdik</a></p>
 
 
 
 <b><i>2.</i></b> Developing a Rician distributed multi-compartmental DWI-MRI signal simulation via Monte Carlo to assay pathologically realistic tissue microstructure in trauma-induced peripheral nerves.
 
-<p style="margin-top: 7px;"><b>Collaborator(s) @ Barrow:</b> <a href='https://scholar.google.com/citations?user=4HPMQf8AAAAJ&hl=en'>Thammathida Ketsiri, Ph.D.</a>, <a href='https://scholar.google.com/citations?user=0Nxp2WYAAAAJ&hl=en'>Richard Dortch, Ph.D.</a></p>
+<p style="margin-top: 7px;"><b>Collaborator(s) @ Barrow Neurological Institute:</b> <a href='https://scholar.google.com/citations?user=4HPMQf8AAAAJ&hl=en'>Thammathida Ketsiri</a>, <a href='https://scholar.google.com/citations?user=0Nxp2WYAAAAJ&hl=en'>Richard Dortch</a></p>
 
 
 
 <b><i>3.</i></b> Training U-Net-based AI/ML models for biomedical image segmentation of spinal pathology.
 
-<p style="margin-top: 7px;"><b>Collaborator(s) @ Brown:</b> <a href='https://danielzhu04.github.io/'>Daniel Zhu</a></p>
+<p style="margin-top: 7px;"><b>Collaborator(s) @ Brown University:</b> <a href='https://danielzhu04.github.io/'>Daniel Zhu</a></p>
 
 </div>
 </details>
