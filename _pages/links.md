@@ -25,6 +25,6 @@ nav_order:
 * [Scale of the Universe](https://scaleofuniverse.com/en)
 * [Space Elevator](https://neal.fun/space-elevator/)
 * [Timeline of the Far Future](https://en.m.wikipedia.org/wiki/Timeline_of_the_far_future)
-* [Yann LeCun's Fun Stuff Page](https://yann.lecun.com/ex/fun/index.html)
+* [Turing Machine Simulator](https://morphett.info/turing/turing.html)
 * [Zoom Quilt](https://zoomquilt.org/)
 * [...]
