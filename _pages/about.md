@@ -54,7 +54,7 @@ Here are some current research projects that I am working on:
 <blockquote style="text-align: justify; line-height: 1.2;">
     <font size="2">
         "Wer die Wahrheit der großzügigen Denkweise und Weltanschauung, die aus diesen Worten Jacobis hervorleuchtet, empfindet, der verfällt nicht rückschrittlicher und unfruchtbarer Zweifelsucht; der wird nicht denen glauben, die heute mit philosophischer Miene und überlegenem Tone den Kulturuntergang prophezeien und sich in dem <i>Ignorabimus</i> gefallen. Für den Mathematiker gibt es kein <i>Ignorabimus</i>, und meiner Meinung nach auch für die Naturwissenschaft überhaupt nicht. [...] Statt des törichten <i>Ignorabimus</i> heiße im Gegenteil unsere Losung: <i>Wir müssen wissen, Wir werden wissen</i>."
-        ― David Hilbert, <a href='http://www.psiquadrat.de/downloads/hilbert_naturwissenschaft1930.pdf'><i>Naturerkennen und Logik</i> (1930)</a>
+        ― David Hilbert, <a href='http://www.psiquadrat.de/downloads/hilbert_naturwissenschaft1930.pdf'><i>Naturerkennen und Logik</i> (09.08.1930)</a>
     </font>
 </blockquote>
 
