@@ -52,7 +52,7 @@ Here are some current research projects that I am working on:
 <hr>
 
 <blockquote style="text-align: justify;">
-    <font size="3"><i>"It is strange to see how the populace, which nourishes its imagination with tales of witches or saints, mysterious events and extraordinary occurrences, disdains the world around it as commonplace, monotonous and prosaic, without suspecting that at bottom it is all secret, mystery, and marvel."</i> ― Santiago Ramón y Cajal, <i><a href='https://direct.mit.edu/books/book/2088/Recollections-of-My-Life'>Recollections of My Life</a></i></font>
+    <font size="3">"Wer die Wahrheit der großzügigen Denkweise und Weltanschauung, die aus diesen Worten Jacobis hervorleuchtet, empfindet, der verfällt nicht rückschrittlicher und unfruchtbarer Zweifelsucht; der wird nicht denen glauben, die heute mit philosophischer Miene und überlegenem Tone den Kulturuntergang prophezeien und sich in dem <i>Ignorabimus</i> gefallen. Für den Mathematiker gibt es kein <i>Ignorabimus</i>, and meiner Meinung nach auch für die Naturwissenschaft überhaupt nicht. Statt des törichten <i>Ignorabimus</i> heiße im Gegenteil unsere Losung: <i>Wir müssen wissen, Wir werden wissen</i>." ― David Hilbert, <i><a href='http://www.psiquadrat.de/downloads/hilbert_naturwissenschaft1930.pdf'>Naturerkennen und Logik</a></i></font>
 </blockquote>
 
 <hr>
