@@ -27,4 +27,3 @@ nav_order:
 * [Timeline of the Far Future](https://en.m.wikipedia.org/wiki/Timeline_of_the_far_future)
 * [Turing Machine Simulator](https://morphett.info/turing/turing.html)
 * [Zoom Quilt](https://zoomquilt.org/)
-* [...]
