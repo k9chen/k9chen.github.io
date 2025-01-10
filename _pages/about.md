@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 
 ---
-<p style="text-align: justify;">I am a third-year undergraduate at <a href='https://www.virginia.edu/'>UVA</a> majoring in neuroscience and chemistry with a minor in bioethics. I am respectively advised by Drs. <a href='https://med.virginia.edu/bims/faculty/?facbio=1&id=48788'>Petr Tvrdik</a> and <a href='https://www.barrowneuro.org/person/richard-dortch-phd/'>Richard Dortch</a> in the Departments of Neurosurgery and Translational Neuroscience at <a href='https://med.virginia.edu/'>UVA School of Medicine</a> and <a href='https://www.barrowneuro.org/'>Barrow Neurological Institute</a>, where I conduct neurologic disease-oriented preclinical research.</p>
+<p style="text-align: justify;">I am a third-year undergraduate at <a href='https://www.virginia.edu/'>UVA</a> majoring in neuroscience and chemistry with a minor in bioethics. I am respectively advised by Drs. <a href='https://med.virginia.edu/bims/faculty/?facbio=1&id=48788'>Petr Tvrdik</a> and <a href='https://www.barrowneuro.org/person/richard-dortch-phd/'>Richard Dortch</a> in the Departments of Surgery and Translational Neuroscience at <a href='https://med.virginia.edu/'>UVA School of Medicine</a> and <a href='https://www.barrowneuro.org/'>Barrow Neurological Institute</a>, where I conduct neurologic disease-oriented preclinical research.</p>
 
 <p style="text-align: justify;">My main research focuses on translating pathophysiological biomarkers and mechanisms of neurovascular diseases into novel diagnostic and therapeutic tools for clinical applications via the integration of computational and experimental methods.</p>
 
@@ -26,25 +26,25 @@ social: false # includes social icons at the bottom of the page
 <summary><b>Work in progress...</b></summary>
 <br>
 <div style="text-align: justify;">
-Here are some current research projects that I am working on:
+Here are some of the current research projects that I am working on:
 
 <br><br>
 
 <b><i>1.</i></b> Mapping phenotypic and spatial heterogeneity of myeloid cell subtypes in the recombinase-mediated <i>RC::RLTG</i> reporter mouse following transient middle cerebral artery occlusion.
 
-<p style="margin-top: 7px;"><b>Collaborator(s) @ UVA School of Medicine:</b> <a href='https://www.researchgate.net/profile/Khadijeh-Sharifi'>Khadijeh Sharifi</a>, <a href='https://www.researchgate.net/profile/Petr-Tvrdik'>Petr Tvrdik</a></p>
+<p style="margin-top: 7px;"><b>Collaborator(s) @ UVA School of Medicine:</b> <a href='https://www.researchgate.net/profile/Khadijeh-Sharifi'>Khadijeh Sharifi</a>, Ph.D. <a href='https://www.researchgate.net/profile/Petr-Tvrdik'>Petr Tvrdik</a>, Ph.D.</p>
 
 
 
 <b><i>2.</i></b> Developing a Rician distributed multi-compartmental DWI-MRI signal simulation via Monte Carlo to assay pathologically realistic tissue microstructure in trauma-induced peripheral nerves.
 
-<p style="margin-top: 7px;"><b>Collaborator(s) @ Barrow Neurological Institute:</b> <a href='https://scholar.google.com/citations?user=4HPMQf8AAAAJ&hl=en'>Thammathida Ketsiri</a>, <a href='https://scholar.google.com/citations?user=0Nxp2WYAAAAJ&hl=en'>Richard Dortch</a></p>
+<p style="margin-top: 7px;"><b>Collaborator(s) @ Barrow Neurological Institute:</b> <a href='https://scholar.google.com/citations?user=4HPMQf8AAAAJ&hl=en'>Thammathida Ketsiri</a>, Ph.D. <a href='https://scholar.google.com/citations?user=0Nxp2WYAAAAJ&hl=en'>Richard Dortch</a>, Ph.D.</p>
 
 
 
-<b><i>3.</i></b> Training U-Net-based AI/ML models for biomedical image segmentation of spinal pathology.
+<b><i>3.</i></b> Elucidating the role of MG53/TRIM72 as a myokine in neuroinflammation associated with Alzheimer’s disease and its protective effect of inducing M1 to M2 polarization.
 
-<p style="margin-top: 7px;"><b>Collaborator(s) @ Brown University:</b> <a href='https://danielzhu04.github.io/'>Daniel Zhu</a></p>
+<p style="margin-top: 7px;"><b>Collaborator(s) @ UVA School of Medicine:</b> <a href='https://postdoc.virginia.edu/postdoc-directory/kyung-eun-lee'>Kyung Eun Lee</a>, Ph.D. <a href='https://scholar.google.com/citations?user=hLSLyI0AAAAJ'>Jianjie Ma</a>, Ph.D.</p>
 
 </div>
 </details>
