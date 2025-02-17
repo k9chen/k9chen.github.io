@@ -30,17 +30,17 @@ Here are some of the current research projects that I am working on:
 
 <br><br>
 
-<b><i>3.</i></b> Treating cerebral ischemia-reperfusion injury by synergistically targeting MG53 and CitH3 with combination therapy to attenuate NETosis-associated neuroinflammation.
+<b><i>1.</i></b> Treating cerebral ischemia-reperfusion injury by synergistically targeting MG53 and CitH3 with combination therapy to attenuate NETosis-associated neuroinflammation.
 
 <p style="margin-top: 7px;"><b>Collaborator(s) @ UVA School of Medicine:</b> <a href='https://postdoc.virginia.edu/postdoc-directory/kyung-eun-lee'>Kyung Eun Lee</a>, Ph.D.; <a href='https://scholar.google.com/citations?user=hLSLyI0AAAAJ'>Jianjie Ma</a>, Ph.D.</p>
 
 
-<b><i>1.</i></b> Mapping phenotypic and spatial heterogeneity of myeloid cell subtypes in the recombinase-mediated <i>RC::RLTG</i> reporter mouse following transient middle cerebral artery occlusion.
+<b><i>2.</i></b> Mapping phenotypic and spatial heterogeneity of myeloid cell subtypes in the recombinase-mediated <i>RC::RLTG</i> reporter mouse following transient middle cerebral artery occlusion.
 
 <p style="margin-top: 7px;"><b>Collaborator(s) @ UVA School of Medicine:</b> <a href='https://www.researchgate.net/profile/Khadijeh-Sharifi'>Khadijeh Sharifi</a>, Ph.D.; <a href='https://www.researchgate.net/profile/Petr-Tvrdik'>Petr Tvrdik</a>, Ph.D.</p>
 
 
-<b><i>2.</i></b> Developing a Rician distributed multi-compartmental DWI-MRI signal simulation via Monte Carlo to assay pathologically realistic tissue microstructure in trauma-induced peripheral nerves.
+<b><i>3.</i></b> Developing a Rician distributed multi-compartmental DWI-MRI signal simulation via Monte Carlo to assay pathologically realistic tissue microstructure in trauma-induced peripheral nerves.
 
 <p style="margin-top: 7px;"><b>Collaborator(s) @ Barrow Neurological Institute:</b> <a href='https://scholar.google.com/citations?user=4HPMQf8AAAAJ&hl=en'>Thammathida Ketsiri</a>, Ph.D.; <a href='https://scholar.google.com/citations?user=0Nxp2WYAAAAJ&hl=en'>Richard Dortch</a>, Ph.D.</p>
 
