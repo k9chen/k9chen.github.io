@@ -2,7 +2,7 @@
 layout: page
 title: Links
 permalink: /misc/links/
-description: Interesting and maybe seemingly weird links found on the corners of the internet.
+description: Interesting (and maybe seemingly weird) links that I've found on the internet.
 nav: false
 nav_order:
 
@@ -13,7 +13,6 @@ nav_order:
 * [90's Retro TV](https://90s.myretrotvs.com/)
 * [Absurd Trolley Problems](https://neal.fun/absurd-trolley-problems/)
 * [Cat Bounce](https://cat-bounce.com/)
-* [Eel Slap](https://eelslap.com/)
 * [Evanescence](https://github.com/al2me6/evanescence)
 * [Hacker Typer](https://hackertyper.com/)
 * [Library of Babel](https://libraryofbabel.info/)
