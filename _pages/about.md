@@ -18,7 +18,7 @@ social: false # includes social icons at the bottom of the page
 ---
 <p style="text-align: justify;">I am a fourth-year undergraduate at <a href='https://www.virginia.edu/'>UVA</a> majoring in neuroscience with a minor in bioethics. I am respectively advised by Drs. <a href='https://med.virginia.edu/faculty/faculty-listing/qga3zx/'>Jianjie Ma</a> and <a href='https://www.barrowneuro.org/person/richard-dortch-phd/'>Richard Dortch</a> in the Departments of Surgery and Translational Neuroscience at <a href='https://med.virginia.edu/'>UVA School of Medicine</a> and <a href='https://www.barrowneuro.org/'>Barrow Neurological Institute</a>, where I conduct neurologic disease-oriented preclinical research.</p>
 
-<p style="text-align: justify;">My primary research focuses on understanding the pathophysiological mechanisms that underlie nervous system disorders, notably neurovascular dysfunction and neurodegeneration, and the development of targeted therapies for clinical applications via integrating computational and experimental methods.</p>
+<p style="text-align: justify;">My primary research lies in understanding the pathophysiological mechanisms that underlie nervous system disorders with an emphasis on neurovascular dysfunction and neurodegeneration, as well as the development of targeted therapies for clinical applications via integrating computational and experimental methods.</p>
 
 [comment]: <> (<p style="text-align: justify;">Please direct emails to <a href='mailto:ddw4hp@virginia.edu'><tt>ddw4hp [AT] virginia [DOT] edu</tt></a>.</p>)
 

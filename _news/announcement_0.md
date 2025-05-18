@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-<p style="text-align: justify;">Began my undergraduate studies in the College of Arts & Sciences at UVA!.</p>
+<p style="text-align: justify;">Began my undergraduate studies in the College of Arts & Sciences at UVA!</p>
