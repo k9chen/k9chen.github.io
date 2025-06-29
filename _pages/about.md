@@ -22,6 +22,27 @@ social: false # includes social icons at the bottom of the page
 
 [comment]: <> (<p style="text-align: justify;">Please direct emails to <a href='mailto:ddw4hp@virginia.edu'><tt>ddw4hp [AT] virginia [DOT] edu</tt></a>.</p>)
 
+<style>
+  details {
+    margin: 1em 0;
+    padding: 0.5em;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #fdfdfd;
+  }
+
+  summary {
+    font-weight: bold;
+    font-size: 1.05em;
+    cursor: pointer;
+  }
+
+  ul {
+    margin-top: 0.5em;
+    padding-left: 1.5em;
+  }
+</style>
+
 <details>
   <summary>Work in progress</summary>
   <ul>
