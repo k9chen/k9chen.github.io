@@ -32,8 +32,8 @@ social: false # includes social icons at the bottom of the page
   }
 
   summary {
-    font-weight: bold;
-    font-size: 1.05em;
+    font-weight: normal;
+    font-size: 1.0em;
     cursor: pointer;
   }
 
