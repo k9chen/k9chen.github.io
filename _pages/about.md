@@ -22,6 +22,14 @@ social: false # includes social icons at the bottom of the page
 
 [comment]: <> (<p style="text-align: justify;">Please direct emails to <a href='mailto:ddw4hp@virginia.edu'><tt>ddw4hp [AT] virginia [DOT] edu</tt></a>.</p>)
 
+<details>
+  <summary>Work in progress</summary>
+  <ul>
+  <li>Attenuation of cerebral infarction by co-targeting MG53-mediated cell membrane repair and CitH3-mediated NETosis</li>
+  <li>Focused ultrasound-facilitated delivery of recombinant human MG53 in mouse models of Alzheimer's disease</li>
+  <li>Neuroscience Ph.D. program applications :/</li>
+  </ul>
+</details>
 
 <hr>
 
