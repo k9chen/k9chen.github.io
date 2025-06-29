@@ -28,7 +28,6 @@ social: false # includes social icons at the bottom of the page
     padding: 0.5em;
     border: 1px solid #ccc;
     border-radius: 8px;
-    background-color: #fdfdfd;
   }
 
   summary {
