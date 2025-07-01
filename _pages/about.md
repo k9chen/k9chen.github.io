@@ -55,8 +55,15 @@ social: false # includes social icons at the bottom of the page
 
 <blockquote style="text-align: justify; line-height: 1.2;">
     <font size="2">
-        "Wer die Wahrheit der großzügigen Denkweise und Weltanschauung, die aus diesen Worten Jacobis hervorleuchtet, empfindet, der verfällt nicht rückschrittlicher und unfruchtbarer Zweifelsucht; der wird nicht denen glauben, die heute mit philosophischer Miene und überlegenem Tone den Kulturuntergang prophezeien und sich in dem <i>Ignorabimus</i> gefallen. Für den Mathematiker gibt es kein <i>Ignorabimus</i>, und meiner Meinung nach auch für die Naturwissenschaft überhaupt nicht. [...] Statt des törichten <i>Ignorabimus</i> heiße im Gegenteil unsere Losung: <i>Wir müssen wissen, Wir werden wissen</i>."
-        <br><div style="text-align: right;">― David Hilbert, <a href="http://www.psiquadrat.de/downloads/hilbert_naturwissenschaft1930.pdf"><i>Naturerkennen und Logik</i></a></div>
+        "<p>Every act of communication is a miracle of translation.</p>
+        <p>At this moment, in this place, the shifting action potentials in my neurons cascade into certain arrangements, patterns, thoughts; they flow down my spine, branch into my arms, my fingers, until muscles twitch and thought is translated into motion; mechanical levers are pressed; electrons are rearranged; marks are made on paper.</p>
+        <p>At another time, in another place, light strikes the marks, reflects into a pair of high-precision optical instruments sculpted by nature after billions of years of random mutations; upside-down images are formed against two screens made up of millions of light-sensitive cells, which translate light into electrical pulses that go up the optic nerves, cross the chiasm, down the optic tracts, and into the visual cortex, where the pulses are reassembled into letters, punctuation marks, words, sentences, vehicles, tenors, thoughts.</p>
+        <p>The entire system seems fragile, preposterous, science fictional.</p>
+        <p>Who can say if the thoughts you have in your mind as you read these words are the same thoughts I had in my mind as I typed them? We are different, you and I, and the qualia of our consciousnesses are as divergent as two stars at the ends of the universe.</p>
+        <p>And yet, whatever has been lost in translation in the long journey of my thoughts through the maze of civilization to your mind, I think you do understand me, and you think you do understand me. Our minds managed to touch, if but briefly and imperfectly.</p>
+        <p>Does the thought not make the universe seem just a bit kinder, a bit brighter, a bit warmer and more human?</p>
+        <p>We live for such miracles.</p>"
+        <br><div style="text-align: right;">― Ken Liu, <a href="https://kenliu.name/blog/book/the-paper-menagerie-and-other-stories/"><i>The Paper Menagerie and Other Stories</i></a></div>
     </font>
 </blockquote>
 
