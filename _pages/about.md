@@ -63,6 +63,7 @@ social: false # includes social icons at the bottom of the page
         <p><i>And yet, whatever has been lost in translation in the long journey of my thoughts through the maze of civilization to your mind, I think you do understand me, and you think you do understand me. Our minds managed to touch, if but briefly and imperfectly.</i></p>
         <p><i>Does the thought not make the universe seem just a bit kinder, a bit brighter, a bit warmer and more human?</i></p>
         <p><i>We live for such miracles."</i></p>
+        <img src="images/example.jpg" alt="Example Image" style="max-width: 100%; height: auto; margin-top: 1em;">
         <br><div style="text-align: right;"><i>― Ken Liu, </i><a href="https://kenliu.name/blog/book/the-paper-menagerie-and-other-stories/">The Paper Menagerie and Other Stories</a></div>
     </font>
 </blockquote>
