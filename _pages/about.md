@@ -66,6 +66,3 @@ social: false # includes social icons at the bottom of the page
         <br><div style="text-align: right;"><i>― Ken Liu, </i><a href="https://kenliu.name/blog/book/the-paper-menagerie-and-other-stories/">The Paper Menagerie and Other Stories</a></div>
     </font>
 </blockquote>
-
-
-<hr>
