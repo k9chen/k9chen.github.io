@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://kel.name/sitemap.xml
+Sitemap: https://k9chen.github.io/sitemap.xml
