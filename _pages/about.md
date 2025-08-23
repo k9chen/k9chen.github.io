@@ -8,7 +8,7 @@ profile:
   image: quack.gif
   image_circular: false # crops the image to make it circular
   address: >
-    <p> <tt>Fig. 1. Kelvin Chen</tt> </p>
+    <p> <tt>ddw4hp[at]virginia[dot]edu</tt> </p>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
