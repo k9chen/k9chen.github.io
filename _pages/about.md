@@ -5,10 +5,10 @@ permalink: /
 subtitle: <a href='https://med.virginia.edu/surgery/divisions-of-surgery/division-of-surgical-science/'>Division of Surgical Sciences</a>, UVA Department of Surgery
 profile:
   align: right
-  image: quack.gif
+  image: pfp.jpeg
   image_circular: false # crops the image to make it circular
   address: >
-    <p> <tt>ddw4hp[at]virginia.edu</tt> </p>
+    <span style="font-size:0.85em;">ddw4hp [at] virginia [dot] edu</span>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
