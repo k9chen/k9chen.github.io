@@ -8,7 +8,7 @@ profile:
   image: pfp.jpeg
   image_circular: false # crops the image to make it circular
   address: >
-    <span style="font-size:0.85em;">ddw4hp [at] virginia [dot] edu</span>
+    <span style="font-size:0.75em;">ddw4hp [at] virginia [dot] edu</span>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -18,7 +18,7 @@ social: false # includes social icons at the bottom of the page
 ---
 <p style="text-align: justify;">I am an undergraduate student and researcher at <a href='https://www.virginia.edu/'>UVA</a> majoring in neuroscience with a minor in bioethics. I am respectively advised by Drs. <a href='https://med.virginia.edu/faculty/faculty-listing/qga3zx/'>Jianjie Ma</a> and <a href='https://www.barrowneuro.org/person/richard-dortch-phd/'>Richard Dortch</a> in the Departments of Surgery and Translational Neuroscience at <a href='https://med.virginia.edu/'>UVA School of Medicine</a> and <a href='https://www.barrowneuro.org/'>Barrow Neurological Institute</a>, where I conduct neurologic disease-oriented preclinical research.</p>
 
-<p style="text-align: justify;">My research lies in understanding the pathophysiological mechanisms that underlie nervous system disorders with an emphasis on neurovascular dysfunction and neurodegeneration, as well as the development of targeted therapies for clinical applications via integrating computational and experimental methods to bridge the gap from bench to bedside.</p>
+<p style="text-align: justify;">My research lies in understanding the pathophysiological mechanisms that underlie nervous system disorders with an emphasis on the <a href='https://www.cell.com/cell/fulltext/S0092-8674(24)01037-7'>brain-vascular-immune interface</a> as a principled framework for the development of targeted therapies for clinical applications.</p>
 
 [comment]: <> (<p style="text-align: justify;">Please direct emails to <a href='mailto:ddw4hp@virginia.edu'><tt>ddw4hp [AT] virginia [DOT] edu</tt></a>.</p>)
 
