@@ -5,7 +5,7 @@ permalink: /
 subtitle: <a href='https://med.virginia.edu/surgery/divisions-of-surgery/division-of-surgical-science/'>Division of Surgical Sciences</a>, UVA Department of Surgery
 profile:
   align: right
-  image: pfp.jpeg
+  image: newpfp.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <span style="font-size:0.75em;">ddw4hp [at] virginia [dot] edu</span>
@@ -16,9 +16,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 
 ---
-<p style="text-align: justify;">I am an undergraduate student and researcher at <a href='https://www.virginia.edu/'>UVA</a> majoring in neuroscience with a minor in bioethics. I am respectively advised by Drs. <a href='https://med.virginia.edu/faculty/faculty-listing/qga3zx/'>Jianjie Ma</a> and <a href='https://www.barrowneuro.org/person/richard-dortch-phd/'>Richard Dortch</a> in the Departments of Surgery and Translational Neuroscience at <a href='https://med.virginia.edu/'>UVA School of Medicine</a> and <a href='https://www.barrowneuro.org/'>Barrow Neurological Institute</a>, where I conduct neurologic disease-oriented translational research.</p>
+<p style="text-align: justify;">Hi! I am an undergraduate student and researcher at <a href='https://www.virginia.edu/'>UVA</a> studying neuroscience and bioethics. I am presently advised by Dr. <a href='https://med.virginia.edu/faculty/faculty-listing/qga3zx/'>Jianjie Ma</a> at <a href='https://med.virginia.edu/'>UVA School of Medicine</a>, where my research focuses on ischemic stroke. Previously, I worked with Dr. <a href='https://www.barrowneuro.org/person/richard-dortch-phd/'>Richard Dortch</a> at <a href='https://www.barrowneuro.org/'>Barrow Neurological Institute</a> on computational neuroimaging.</p>
 
-<p style="text-align: justify;">My research primarily lies in elucidating the pathophysiologic mechanisms that underlie nervous system disorders with an emphasis on the <a href='https://www.cell.com/cell/fulltext/S0092-8674(24)01037-7'>brain-vascular-immune interface</a> as a principled framework to guide the development of targeted therapies for clinical applications based on preclinical findings, particularly for the treatment of ischemic stroke and vascular dementia.</p>
+<p style="text-align: justify;">My research interest(s) primarily lies in elucidating the pathophysiologic mechanisms that underlie nervous system dysfunctions with an emphasis on neuroimmune interactions and the cerebral vasculature to guide the development of targeted therapies for clinical applications, particularly for the treatment of cerebrovascular and/or neurodegenerative diseases.</p>
 
 [comment]: <> (<p style="text-align: justify;">Please direct emails to <a href='mailto:ddw4hp@virginia.edu'><tt>ddw4hp [AT] virginia [DOT] edu</tt></a>.</p>)
 
@@ -45,9 +45,9 @@ social: false # includes social icons at the bottom of the page
 <details>
   <summary>Work in progress</summary>
   <ul>
-  <li>Attenuation of cerebral infarction by co-targeting MG53-mediated cell membrane repair and CitH3-mediated NETosis</li>
-  <li>Focused ultrasound-facilitated delivery of recombinant human MG53 in mouse models of Alzheimer's disease</li>
-  <li>Fall 2026 Neuroscience Ph.D. program applications :/</li>
+  <li>Synergistic efficacy of co-targeting MG53 and CitH3 in MCAO models</li>
+  <li>FUS-facilitated delivery of recombinant human MG53 in 5xFAD mice</li>
+  <li>Fall 2026 Neuroscience PhD applications :/</li>
   </ul>
 </details>
 
