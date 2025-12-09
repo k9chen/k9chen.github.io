@@ -18,7 +18,7 @@ social: false # includes social icons at the bottom of the page
 ---
 <p style="text-align: justify;">Hi! I am an undergraduate student and researcher at <a href='https://www.virginia.edu/'>UVA</a> studying neuroscience and bioethics. I am presently advised by Dr. <a href='https://med.virginia.edu/faculty/faculty-listing/qga3zx/'>Jianjie Ma</a> at <a href='https://med.virginia.edu/'>UVA School of Medicine</a>, where my research focuses on ischemic stroke. Previously, I worked with Dr. <a href='https://www.barrowneuro.org/person/richard-dortch-phd/'>Richard Dortch</a> at <a href='https://www.barrowneuro.org/'>Barrow Neurological Institute</a> on computational neuroimaging.</p>
 
-<p style="text-align: justify;">My research interest(s) primarily lies in elucidating the pathophysiologic mechanisms that underlie nervous system dysfunctions with an emphasis on neuroimmune interactions and the cerebral vasculature to guide the development of targeted therapies for clinical applications, particularly for the treatment of cerebrovascular and/or neurodegenerative diseases.</p>
+<p style="text-align: justify;">My research interest mainly lies in elucidating the pathophysiologic mechanisms that underlie nervous system dysfunctions with an emphasis on neuroimmune interactions and the cerebral vasculature to guide the development of targeted therapies for clinical applications, particularly for the treatment of cerebrovascular and/or neurodegenerative diseases.</p>
 
 [comment]: <> (<p style="text-align: justify;">Please direct emails to <a href='mailto:ddw4hp@virginia.edu'><tt>ddw4hp [AT] virginia [DOT] edu</tt></a>.</p>)
 
