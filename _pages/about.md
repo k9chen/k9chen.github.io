@@ -8,7 +8,7 @@ profile:
   image: newpfp.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <span style="font-size:0.75em;">ddw4hp[at]virginia[dot]edu</span>
+    <span style="font-size:0.75em;">Fig.1. A scientist in the wild.</span>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -20,7 +20,13 @@ social: false # includes social icons at the bottom of the page
 
 <p style="text-align: justify;">My current research interest(s) mainly lies in elucidating the pathophysiologic mechanisms that underlie nervous system dysfunctions with an emphasis on neuroimmune interactions and the cerebral vasculature to guide the development of targeted therapies for clinical applications, particularly for the treatment of cerebrovascular and related diseases.</p>
 
-<p style="text-align: justify;">Email: <a href='mailto:ddw4hp@virginia.edu'><tt>ddw4hp [AT] virginia [DOT] edu</tt></a>.</p>
+<p style="text-align: justify;">
+  Email:
+  <a href="mailto:ddw4hp@virginia.edu" style="font-size: 0.9rem;">
+    <tt>ddw4hp [AT] virginia [DOT] edu</tt>
+  </a>
+</p>
+
 [comment]: <> (<p style="text-align: justify;">Please direct emails to <a href='mailto:ddw4hp@virginia.edu'><tt>ddw4hp [AT] virginia [DOT] edu</tt></a>.</p>)
 
 <style>
