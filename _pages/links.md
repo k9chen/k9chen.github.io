@@ -2,7 +2,7 @@
 layout: page
 title: Links
 permalink: /misc/links/
-description: Interesting (and maybe seemingly weird) links that I've found on the internet.
+description: Interesting (and maybe seemingly weird) links that I've found on the internet, some of which are educational.
 nav: false
 nav_order:
 
