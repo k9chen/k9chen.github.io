@@ -6,6 +6,9 @@ nav_order: 5
 dropdown: true
 categories: [Editorials, Translations]
 children:
+    - title: Blog
+      permalink: misc/blog/
+    - title: divider
     - title: Editorials
       permalink: misc/editorials/
     - title: divider
