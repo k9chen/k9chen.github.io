@@ -18,7 +18,7 @@ social: false # includes social icons at the bottom of the page
 ---
 <p style="text-align: justify;">Hi! I am an undergraduate student and researcher at <a href='https://www.virginia.edu/'>UVA</a> studying neuroscience and bioethics. I am presently advised by Dr. <a href='https://med.virginia.edu/faculty/faculty-listing/qga3zx/'>Jianjie Ma</a> at <a href='https://med.virginia.edu/'>UVA School of Medicine</a> in the <a href='https://med.virginia.edu/surgery/research/research-laboratories/ma-cai-and-park-lab/'>Ma-Cai-Park Laboratory</a>, where my research focuses on treating ischemic stroke. Previously, I worked with Dr. <a href='https://www.barrowneuro.org/person/richard-dortch-phd/'>Richard Dortch</a> at <a href='https://www.barrowneuro.org/'>Barrow Neurological Institute</a> on computational neuroimaging.</p>
 
-<p style="text-align: justify;">My current research interests broadly lie in elucidating neuroimmune and neurovascular mechanisms of neurologic disease and injury to guide the development of targeted therapies.</p>
+<p style="text-align: justify;">My research interests broadly lie in elucidating neuroimmune and neurovascular mechanisms of neurologic disease and injury to guide the development of targeted therapies.</p>
 
 <p style="text-align: justify;">In fall 2026, I will be starting my PhD in Neuroscience at <a href='https://weill.cornell.edu/'>Weill Cornell Medicine</a> at <a href='https://www.houstonmethodist.org/'>Houston Methodist</a>.</p>
 
