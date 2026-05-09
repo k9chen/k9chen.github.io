@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://med.virginia.edu/surgery/divisions-of-surgery/division-of-surgical-science/'>Division of Surgical Sciences (DOSS)</a>, UVA Department of Surgery
+subtitle: <a href='https://www.houstonmethodist.org/academic-institute/department-programs/center-for-neuroregeneration/'>Center for Neuroregeneration</a>, Department of Neurosurgery
 profile:
   align: right
   image: newpfp.jpg
@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 
 ---
-<p style="text-align: justify;">Hi! I am an undergraduate student and researcher at <a href='https://www.virginia.edu/'>UVA</a> studying neuroscience and bioethics. I am presently advised by Dr. <a href='https://med.virginia.edu/faculty/faculty-listing/qga3zx/'>Jianjie Ma</a> at <a href='https://med.virginia.edu/'>UVA School of Medicine</a> in the <a href='https://med.virginia.edu/surgery/research/research-laboratories/ma-cai-and-park-lab/'>Ma-Cai-Park Laboratory</a>, where my research focuses on treating ischemic stroke. Previously, I worked with Dr. <a href='https://www.barrowneuro.org/person/richard-dortch-phd/'>Richard Dortch</a> at <a href='https://www.barrowneuro.org/'>Barrow Neurological Institute</a> on developing quantitative MRI methods. I will be starting my PhD in Neuroscience at <a href='https://weill.cornell.edu/'>Weill Cornell Medicine</a> at <a href='https://www.houstonmethodist.org/'>Houston Methodist</a> in Fall 2026.</p>
+<p style="text-align: justify;">Hi! I am an incoming PhD student in neuroscience at <a href='https://weill.cornell.edu/'>Weill Cornell Medicine</a> at <a href='https://www.houstonmethodist.org/'>Houston Methodist</a>. Previously, I studied neuroscience and bioethics at <a href='https://www.virginia.edu/'>UVA</a>, and worked with Dr. <a href='https://med.virginia.edu/faculty/faculty-listing/qga3zx/'>Jianjie Ma</a> at <a href='https://med.virginia.edu/'>UVA School of Medicine</a> on developing immunotherapies for ischemic stroke.</p>
 
 <p style="text-align: justify;">My research interests broadly lie in elucidating neuroimmune and neurovascular mechanisms of neurologic disease and injury to guide the development of targeted therapeutic interventions.</p>
 
