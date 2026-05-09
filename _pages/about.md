@@ -8,7 +8,7 @@ profile:
   image: newpfp.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <span style="font-size:0.60em;">Figure 1. A scientist in the wild.</span>
+    <span style="font-size:1em;">Figure 1. IDK what to say here</span>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -22,8 +22,8 @@ social: false # includes social icons at the bottom of the page
 
 <p style="text-align: justify;">
   Email:
-  <a href="mailto:ddw4hp@virginia.edu" style="font-size: 0.9rem;">
-    <tt>ddw4hp [AT] virginia [DOT] edu</tt>
+  <a href="mailto:kec4033@med.cornell.edu" style="font-size: 0.9rem;">
+    <tt>kec4033 [AT] med [DOT] cornell [Dot] edu</tt>
   </a>
 </p>
 
@@ -52,8 +52,8 @@ social: false # includes social icons at the bottom of the page
 <details>
   <summary>Work in progress</summary>
   <ul>
-  <li>Synergistic efficacy of co-targeting MG53 and CitH3 in MCAO models</li>
-  <li>FUS-facilitated delivery of recombinant human MG53 in 5xFAD mice</li>
+  <li>Finishing up writing a manuscript :/</li>
+  <li>Finding new hobbies :)</li>
   </ul>
 </details>
 
