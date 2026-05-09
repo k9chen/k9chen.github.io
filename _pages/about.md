@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 
 ---
-<p style="text-align: justify;">Hi! I am an incoming PhD student in neuroscience at <a href='https://weill.cornell.edu/'>Weill Cornell Medicine</a> at <a href='https://www.houstonmethodist.org/'>Houston Methodist</a>. Previously, I studied neuroscience and bioethics at <a href='https://www.virginia.edu/'>UVA</a>, and worked with Dr. <a href='https://med.virginia.edu/faculty/faculty-listing/qga3zx/'>Jianjie Ma</a> at <a href='https://med.virginia.edu/'>UVA School of Medicine</a> on developing immunotherapies for ischemic stroke.</p>
+<p style="text-align: justify;">Hi! I am an incoming PhD student in neuroscience at <a href='https://weill.cornell.edu/'>Weill Cornell Medicine</a> at <a href='https://www.houstonmethodist.org/'>Houston Methodist</a>. Previously, I studied neuroscience and bioethics at <a href='https://www.virginia.edu/'>UVA</a> as an undergrad and worked on treating ischemic stroke using immunotherapies with Dr. <a href='https://med.virginia.edu/faculty/faculty-listing/qga3zx/'>Jianjie Ma</a> at <a href='https://med.virginia.edu/'>UVA School of Medicine</a>. I have also worked on developing quantitative MRI methods for peripheral nerve imaging with Dr. <a href='https://www.barrowneuro.org/person/richard-dortch-phd/'>Richard Dortch</a> at <a href='https://www.barrowneuro.org/'>Barrow Neurological Institute</a>.</p>
 
 <p style="text-align: justify;">My research interests broadly lie in elucidating neuroimmune and neurovascular mechanisms of neurologic disease and injury to guide the development of targeted therapeutic interventions.</p>
 
