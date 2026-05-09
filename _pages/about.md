@@ -8,7 +8,7 @@ profile:
   image: newpfp.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <span style="font-size:1em;">Figure 1. IDK what to say here</span>
+    <span style="font-size:1em;"></span>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -23,7 +23,7 @@ social: false # includes social icons at the bottom of the page
 <p style="text-align: justify;">
   Email:
   <a href="mailto:kec4033@med.cornell.edu" style="font-size: 0.9rem;">
-    <tt>kec4033 [AT] med [DOT] cornell [Dot] edu</tt>
+    <tt>kec4033[AT]med.cornell.edu</tt>
   </a>
 </p>
 
