@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://www.houstonmethodist.org/academic-institute/department-programs/center-for-neuroregeneration/'>Center for Neuroregeneration</a>, Department of Neurosurgery
+subtitle: <a href='https://www.houstonmethodist.org/academic-institute/department-programs/center-for-neuroregeneration/'>Center for Neuroregeneration</a>, HMAI Department of Neurosurgery
 profile:
   align: right
   image: newpfp.jpg
