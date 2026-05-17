@@ -21,7 +21,7 @@ social: false # includes social icons at the bottom of the page
 <p style="text-align: justify;">My research interests broadly lie in elucidating neuroimmune and neurovascular mechanisms of neurologic disease and injury to guide the development of targeted therapeutic interventions.</p>
 
 <p style="text-align: justify;">
-  Email:
+  Contact:
   <a href="mailto:kec4033@med.cornell.edu" style="font-size: 0.9rem;">
     <tt>kec4033[AT]med.cornell.edu</tt>
   </a>
@@ -53,7 +53,7 @@ social: false # includes social icons at the bottom of the page
   <summary>Work in progress</summary>
   <ul>
   <li>Finishing up writing a manuscript :/</li>
-  <li>Finding new hobbies :)</li>
+  <li>Reading JJK, One Piece, Blue Box :D</li>
   </ul>
 </details>
 
